@@ -1,0 +1,1031 @@
+id	text	iset	shellnoun	content	content_phrase	comment
+1	call	20352	true	given	13	_
+2	rights	20289	false	_		_
+3	issues	20179	false	_		_
+4	rights	20086	false	_		_
+5	rights	20012	false	_		_
+6	demand	20176	true	given	14	_
+7	question	20138	true	given	22	_
+8	fact	13760	false	_		_
+9	decisions	13944	false	_		_
+10	objectives	13089	false	_		_
+11	needs	12795	true	given	97	_
+12	efforts	12847	true	given	94	_
+13	aim	12988	true	given	143	_
+14	reasons	12335	true	given	26 27	_
+15	fact	12708	true	given	93	_
+16	suggestion	1129	true	external		_
+17	needs	1043	false	_		_
+18	needs	1074	false	_		_
+19	intention	950	true	given	132	_
+20	needs	1004	false	_		_
+21	reason	720	true	given	126	_
+22	needs	845	false	_		_
+23	fact	342	true	given	130	_
+24	suggestion	132	true	external		_
+25	reasons	138	true	external		_
+26	requirement	16443	true	given	42	_
+27	point	3921	true	given	72	_
+28	need	16554	true	given	41	_
+29	proposals	16660	false	_		_
+30	opinion	4078	true	given	96 99	_
+31	fact	16888	true	given	37	_
+32	need	16804	true	given	38	_
+33	requirements	15125	true	given	115 116	_
+34	conclusion	14833	false	_		_
+35	fact	14811	true	given	109	_
+36	proposals	14802	false	_		_
+37	fact	15841	true	given	107	_
+38	fact	15774	false	_		_
+39	possibilities	15598	false	_		_
+40	question	5454	true	given	58	_
+41	ideas	18435	false	_		_
+42	Plan	5479	false	_		_
+43	proposal	18432	false	_		_
+44	fact	18429	true	given	185	_
+45	Plan	6359	false	_		_
+46	proposal	18566	true	given	198	_
+47	capacity	6124	true	given	62	_
+48	proposal	18771	false	_		_
+49	conclusion	18760	true	given	195	_
+50	matter	31	true	given	77	_
+51	aims	18837	true	given	152 154	_
+52	argument	18817	true	given	165	_
+53	aims	18859	true	given	154 152	_
+54	issue	4715	false	_		_
+55	Position	5026	false	_		_
+56	rights	19950	false	_		_
+57	right	19883	true	given	89	_
+58	conviction	17355	true	given	56	_
+59	ability	17323	true	given	55	_
+60	Position	4833	false	_		_
+61	trend	19921	true	given	84	_
+62	decisions	17597	false	_		_
+63	decisions	17504	false	_		_
+64	proposal	18235	false	_		_
+65	reasons	18190	unclear	undefined		_
+66	views	4652	false	_		_
+67	difficulties	4674	false	_		_
+68	requirements	18253	false	_		_
+69	difficulties	4687	false	_		_
+70	amendment	4701	false	_		_
+71	hope	17663	true	given	57	_
+72	amendments	4533	false	_		_
+73	aim	17749	true	given	48	_
+74	point	25098	false	_		_
+75	duties	25085	false	_		_
+76	view	25383	false	_		_
+77	right	24936	true	given	111	_
+78	facts	25530	false	_		_
+79	failure	25432	false	_		_
+80	right	25065	true	given	110	_
+81	decision	25689	true	external		_
+82	proposal	25284	true	external		_
+83	circumstances	8527	false	_		_
+84	way	8421	true	given	155	_
+85	call	9040	true	given	120	_
+86	questions	25636	false	_		_
+87	opinion	561	true	given	136	_
+88	rights	19808	true	given	142	_
+89	right	19823	true	given	199 200	_
+90	question	42	true	given	137	_
+91	right	19854	true	given	145	_
+92	right	24873	true	given	166	_
+93	justice	24780	false	_		_
+94	objective	24793	true	given	151	_
+95	reason	24825	true	given	150	_
+96	impression	24712	true	given	18	_
+97	situation	7810	false	_		_
+98	impression	24728	true	given	19	_
+99	situation	7558	false	_		_
+100	rise	18888	false	_		_
+101	willingness	7242	true	given	163	_
+102	duties	24990	false	_		_
+103	rights	24886	true	given	166 168	_
+104	right	24880	true	given	168	_
+105	decisions	24950	false	_		_
+106	ways	7049	false	_		_
+107	idea	24906	true	given	149	_
+108	question	19143	false	_		_
+109	situations	6211	false	_		_
+110	issue	19313	true	given	178	inkorporiert?
+111	issues	6423	false	_		_
+112	need	23957	false	_		_
+113	decisions	13949	true	given	134 133	_
+114	fact	14092	true	given	129	_
+115	opportunities	14274	false	_		_
+116	ability	24097	true	given	23	_
+117	decision	14419	true	given	106	_
+118	fact	24090	false	_		_
+119	courage	14758	false	_		_
+120	plan	18636	true	given	194	_
+121	opportunity	14643	false	_		_
+122	promise	24218	true	given	21	_
+123	proposal	14568	false	_		_
+124	proposal	24142	false	_		_
+125	risk	16859	true	given	206	inkorporiert?
+126	risk	16866	true	given	206	_
+127	request	17411	true	given	203	_
+128	circumstances	17380	false	_		_
+129	amendment	16953	false	_		_
+130	risk	16891	true	given	206	_
+131	thing	9379	true	given	80	_
+132	potential	9591	true	given	211	_
+133	option	17455	false	_		_
+134	functions	18044	true	given	189 188 187 184 183 182 181	_
+135	position	23475	false	_		_
+136	point of order	23141 23142 23143	true	given	2	_
+137	issue	22953	false	_		_
+138	issues	23073	false	_		_
+139	issues	23085	false	_		_
+140	views	23106	false	_		_
+141	Position	24421	false	_		_
+142	duty	24302	true	given	20	_
+143	way	24188	true	given	21	_
+144	matter	24084	false	_		_
+145	matter	24094	false	_		_
+146	right	23848	true	given	24	_
+147	malice	23907	false	_		_
+148	problems	23948	false	_		_
+149	needs	7705	false	_		_
+150	need	7986	true	given	45	_
+151	needs	8000	false	_		_
+152	reason	7886	true	given	44	_
+153	proposals	7968	true	given	146 147 139	_
+154	proposals	8028	false	_		_
+155	objective	7394	true	given	157	inkorporiert
+156	objective	7453	true	given	159	_
+157	proposals	7578	false	_		_
+158	proposal	7609	false	_		_
+159	proposal	4391	false	_		_
+160	proposals	8617	true	given	49 79	_
+161	need	4342	true	given	83	_
+162	proposals	8736	false	_		_
+163	proposal	4215	false	_		_
+164	objectives	4212	false	_		_
+165	reasons	8549	false	_		_
+166	aims	8834	true	given	78	_
+167	impression	3871	true	given	74	_
+168	argument	3944	true	given	32	_
+169	reason	3933	true	given	32	_
+170	proposals	8045	false	_		_
+171	aim	8283	true	given	50	_
+172	needs	8345	false	_		_
+173	wishes	8347	false	_		_
+174	possibility	4814	true	given	43	_
+175	proposal	4771	false	_		_
+176	fact	5008	true	given	34	_
+177	fact	5071	true	given	31 33	_
+178	efforts	5206	false	_		_
+179	objectives	5159	false	_		_
+180	invitation	5174	false	_		_
+181	proposal	4461	true	given	81	_
+182	proposal	4498	true	given	81	_
+183	proposal	4712	true	given	82	_
+184	need	6582	true	given	40	_
+185	need	6220	true	given	144	_
+186	efforts	7287	false	_		_
+187	efforts	6621	true	given	39	_
+188	emphasis	16800	true	given	28	_
+189	call	16785	true	given	29	_
+190	conditions	16666	false	_		_
+191	will	16454	true	given	30	_
+192	needs	6187	false	_		_
+193	objectives	5668	false	_		_
+194	reason	5942	true	given	59	_
+195	proposal	1704	true	external		_
+196	promises	1600	true	given	92	_
+197	possibility	1270	true	given	95	_
+198	proposal	9007	false	_		_
+199	chance	1164	true	given	90	_
+200	problem	9813	true	given	36 35	_
+201	proposal	22906	true	external		_
+202	needs	22501	false	_		_
+203	aim	9413	true	given	80	_
+204	proposals	9423	false	_		_
+205	impression	23597	true	given	25	_
+206	intention	23510	true	given	3	_
+207	belief	23276	true	given	1	_
+208	suggestions	9103	false	_		_
+209	proposals	9026	false	_		_
+210	proposals	9154	false	_		_
+211	opportunity	23102	true	given	9	_
+212	decisions	2413	false	_		_
+213	ideas	2364	false	_		_
+214	belief	2337	false	_		_
+215	fact	2229	true	given	102	_
+216	application	11060	false	_		_
+217	question	11069	false	_		_
+218	question	11249	true	external		_
+219	fact	9706	true	given	67	_
+220	rights	11322	false	_		_
+221	fact	9777	true	given	66	_
+222	condition	11304	false	_		_
+223	need	9646	true	given	68	_
+224	issues	11399	false	_		_
+225	issues	11416	false	_		_
+226	fact	9892	true	given	64	_
+227	need	9911	true	given	73	_
+228	need	2006	undefined	_		_
+229	law	528	false	_		_
+230	objectives	9604	false	_		_
+231	questions	382	true	given	47 191	_
+232	aim	9539	true	given	69	_
+233	objectives	9519	false	_		inkorporiert?
+234	matters	21	false	_		_
+235	circumstances	372	false	_		_
+236	fact	2879	true	given	100	_
+237	question	10462	true	given	51	_
+238	question	10052	false	_		_
+239	objectives	10061	true	given	98	_
+240	objective	10082	true	given	98	_
+241	decision	10237	false	_		_
+242	reason	2673	true	given	104	_
+243	question	10961	false	_		_
+244	decision	10266	false	_		_
+245	efforts	10288	false	_		_
+246	option	10657	true	given	53	_
+247	reason	2733	false	_		_
+248	objective	9947	false	_		_
+249	question	9922	true	external		_
+250	fact	10014	false	_		_
+251	proposals	3318	true	given	125 124	_
+252	situation	12430	false	_		_
+253	assurances	3357	true	given	101	_
+254	conclusion	3022	false	_		_
+255	decisions	3037	false	_		_
+256	reasons	20440	true	given	6 4 5	_
+257	doubt	2967	false	_		_
+258	issues	12187	true	given	160 162 153	_
+259	need	20426	true	given	12	_
+260	idea	3017	true	given	167	_
+261	idea	2932	true	given	167	_
+262	issue	12057	true	given	65	_
+263	conclusions	20624	false	_		_
+264	need	20556	true	given	180	_
+265	ideas	3517	false	_		_
+266	idea	11044	false	_		_
+267	claim	3570	true	given	75	_
+268	need	11319	true	given	105	_
+269	claims	3580	true	given	193	_
+270	issue	11990	false	_		_
+271	verdict	11875	false	_		_
+272	idea	20695	true	given	190	_
+273	opportunities	11029	false	_		_
+274	Decision	20851	false	_		_
+275	issues	11771	true	given	76	_
+276	situation	11792	false	_		_
+277	decision	10890	false	_		_
+278	question	11538	true	given	46	_
+279	opportunity	10599	true	given	103	_
+280	need	3778	true	given	71	_
+281	effort	21064	false	_		_
+282	decision	10483	false	_		_
+283	conclusions	20893	true	external		_
+284	conclusion	20979	false	_		_
+285	conclusion	20993	false	_		_
+286	difficulties	13348	false	_		_
+287	questions	13303	false	_		_
+288	questions	13223	true	given	88	_
+289	questions	13250	false	_		_
+290	question	13240	false	_		_
+291	opportunities	21456	false	_		_
+292	opportunities	21466	false	_		_
+293	fact	21549	true	given	207	_
+294	question	12542	true	external		_
+295	situation	12440	false	_		_
+296	issue	9950	true	given	70	_
+297	need	11811	true	given	85	_
+298	need	11892	true	given	91	_
+299	proposals	21699	false	_		_
+300	fact	21843	true	given	205	_
+301	proposal	21859	false	_		_
+302	courage	21988	true	given	208	_
+303	conclusions	22200	true	given	212 213	_
+304	conclusions	22301	false	_		_
+305	aim	19020	true	given	173	_
+306	proposal	19059	false	_		_
+307	reasons	19049	true	given	10 16 17 15	_
+308	demand	2309	true	given	108	_
+309	circumstances	2224	false	_		_
+310	question	2201	true	given	113	_
+311	issue	15225	true	given	114	_
+312	circumstances	2042	false	_		_
+313	motion	22770	true	given	148	_
+314	amendment	15061	false	_		_
+315	view	22723	false	_		_
+316	view	22729	true	given	118	_
+317	issue	22688	true	external		_
+318	question	15333	false	_		_
+319	reason	19474	true	given	112	_
+320	fact	19470	true	given	112	_
+321	commitments	2047	false	_		_
+322	question	1963	true	given	127	_
+323	question	1938	true	given	135	_
+324	Position	14524	false	_		_
+325	amendment	1847	false	_		_
+326	view	14555	true	given	138	_
+327	amendment	1890	false	_		_
+328	question	13445	false	_		_
+329	rights	13640	false	_		_
+330	reasons	19219	false	_		_
+331	objectives	19297	false	_		_
+332	fact	19155	false	_		_
+333	amendment	14630	false	_		_
+334	proposal	19064	true	given	170	_
+335	efforts	19073	false	_		_
+336	indications	19626	true	given	117	_
+337	determination	19837	false	_		_
+338	proposals	20199	false	_		_
+339	opportunity	20022	true	given	87	_
+340	proposal	19989	false	_		_
+341	possibilities	19966	false	_		_
+342	backing	2934	false	_		_
+343	question	2836	false	_		_
+344	circumstances	15688	false	_		_
+345	issue	15847	true	external		_
+346	question	15933	true	external		_
+347	dangers	16167	false	_		_
+348	call	2839	true	given	172	_
+349	target	16235	false	_		_
+350	prerequisite	16321	true	given	174	_
+351	call	3202	true	given	179	_
+352	demands	3265	false	_		_
+353	question	20862	true	external		_
+354	point of view	671 672 673	false	_		_
+355	law	656	false	_		_
+356	willingness	676	true	given	192	_
+357	position	21210	false	_		_
+358	circumstances	21095	false	_		_
+359	onus	21490	true	given	196	_
+360	question	21370	true	given	197	_
+361	intent	21480	false	_		_
+362	call	1325	true	given	202	_
+363	position	1748	false	_		_
+364	opinion	1467	false	_		_
+365	amendment	1762	false	_		_
+366	plan	21619	false	_		_
+367	law	21851	false	_		_
+368	law	21846	false	_		_
+369	plan	999	false	_		_
+370	difficulties	886	false	_		_
+371	needs	909	false	_		_
+372	difficulties	943	false	_		_
+373	plan	982	true	given	209	_
+374	opinion	22145	false	_		_
+375	issue	22048	true	given	214	_
+376	occasion	34097	false	_		_
+377	proposals	34116	false	_		_
+378	proposals	34088	false	_		_
+379	fact	34616	true	given	282	_
+380	reason	33061	true	given	265	_
+381	failure	33302	false	_		_
+382	decision	33426	false	_		_
+383	decision	33591	false	_		_
+384	courage	33753	true	given	268	_
+385	reasons	33830	false	_		_
+386	fact	30868	false	_		_
+387	fact	35554	false	_		_
+388	conclusions	30862	false	_		_
+389	fact	35770	true	given	314	_
+390	indication	41106	false	_		_
+391	opportunity	35382	true	given	290	_
+392	needs	35536	false	_		_
+393	hope	35267	undefined	_		_
+394	guarantee	35375	false	_		_
+395	decision	40337	false	_		_
+396	intention	40442	false	_		_
+397	objectives	35938	false	_		_
+398	attempt	40554	false	_		_
+399	fact	34830	true	given	287	_
+400	decision	30747	true	given	270	_
+401	proposals	34883	undefined	_		_
+402	fact	40149	true	given	342	_
+403	decision	30614	true	given	298	_
+404	opportunity	34770	true	given	288	_
+405	possibility	39597	true	given	347	_
+406	proposals	35095	false	_		_
+407	possibility	39698	false	_		_
+408	proposal	35131	false	_		_
+409	efforts	39708	true	given	339	_
+410	decision	39832	true	given	343	_
+411	fact	31179	true	given	231	_
+412	reminder	27697	false	_		_
+413	tendencies	27477	false	_		_
+414	decisions	31261	true	given	215 216	_
+415	opportunity	31659	true	given	247	_
+416	decision	30940	false	_		_
+417	decision	30893	false	_		_
+418	decision	30962	false	_		_
+419	doubt	27315	true	given	232	_
+420	reasons	27082	true	given	224	_
+421	ideas	27292	false	_		_
+422	decision	31033	false	_		_
+423	opportunity	31057	true	given	281 278	_
+424	opportunity	31075	true	given	281 278	_
+425	decision	31081	false	_		_
+426	need	26338	true	given	302	_
+427	conspiracy	26449	false	_		_
+428	aim	32357	true	given	243	_
+429	effort	26963	false	_		_
+430	efforts	32996	false	_		_
+431	proposals	32935	false	_		_
+432	need	32530	true	given	279	_
+433	fact	31883	true	given	249	_
+434	need	31897	true	given	259	_
+435	assurance	25798	true	given	292	_
+436	need	32053	true	given	233	_
+437	decision	32133	true	given	244	_
+438	opportunity	32345	true	given	242	_
+439	fact	31907	true	given	257	_
+440	fact	31948	true	given	250	_
+441	objectives	43348	false	_		_
+442	objectives	43398	false	_		_
+443	request	43096	true	given	218	_
+444	reason	43332	true	given	294	_
+445	opportunity	28859	true	given	336	_
+446	indication	28829	true	given	322	_
+447	guarantee	43401	false	_		_
+448	reason	28810	false	_		_
+449	opportunity	28699	true	given	324	_
+450	law	47953	false	_		_
+451	opportunity	28690	true	given	323	_
+452	conclusion	35965	false	_		_
+453	issue	27122	true	given	224	_
+454	issue	38279	false	_		_
+455	goal	26995	true	given	225	_
+456	rights	26880	false	_		_
+457	position	31339	false	_		_
+458	prerequisite	26956	false	_		_
+459	capacity	38198	true	given	229	_
+460	possibility	43182	true	given	291	_
+461	reason	43050	true	given	293	_
+462	decision	29277	false	_		_
+463	requirement	43608	false	_		_
+464	reason	29148	true	given	330	_
+465	proposals	43617	false	_		_
+466	attempt	43620	true	given	284	_
+467	decision	36330	false	_		_
+468	decision	36231	false	_		_
+469	proposal	36239	false	_		_
+470	reasons	43593	false	_		_
+471	task	27950	true	given	349 348	_
+472	questions	27584	false	_		_
+473	conclusion	36213	false	_		_
+474	law	27548	false	_		_
+475	proposal	36027	false	_		_
+476	question	27172	false	_		_
+477	question	27200	true	given	230	_
+478	fact	42572	true	given	309	_
+479	fact	37230	undefined	_		_
+480	decisions	29531	false	_		_
+481	aim	29405	true	given	307	_
+482	fact	37362	false	_		_
+483	decision	29378	true	given	304	_
+484	invitation	37293	false	_		_
+485	aim	29366	true	given	311	_
+486	ideas	36952	false	_		_
+487	tasks	39287	false	_		_
+488	issue	39002	false	_		_
+489	intention	42532	true	given	308	_
+490	wishes	30076	false	_		_
+491	decision	42983	false	_		_
+492	fact	42812	true	given	332	_
+493	proposal	42863	true	given	222	_
+494	fact	29588	true	given	317 319	_
+495	doubts	37898	false	_		_
+496	proposal	37904	false	_		_
+497	decision	37697	false	_		_
+498	comments	48020	false	_		_
+499	issue	38964	false	_		_
+500	difficulty	38873	false	_		_
+501	reason	42785	undefined	_		_
+502	effort	38600	true	given	260	_
+503	need	38541	true	given	223	_
+504	speculation	30140	false	_		_
+505	intention	38500	true	given	226	_
+506	fact	30145	false	_		_
+507	speculation	30108	false	_		_
+508	fact	30113	false	_		_
+509	Legal Affairs	44619 44620	false	_		_
+510	speculation	30100	false	_		_
+511	decision	38294	false	_		_
+512	matter	44583	true	given	261	_
+513	doubt	38283	false	_		_
+514	problems	44632	true	given	262 263	_
+515	decision	30262	false	_		_
+516	refusal	46244	false	_		_
+517	hope	46206	false	_		_
+518	point	30787	true	given	267	_
+519	demand	33476	true	given	271	_
+520	reason	38248	false	_		_
+521	reasons	39135	true	given	245	_
+522	opportunity	39120	false	_		_
+523	arguments	30408	false	_		_
+524	efforts	39194	false	_		_
+525	doubt	30421	false	_		_
+526	efforts	39146	false	_		_
+527	invitation	49911	undefined	_		_
+528	decision	30268	false	_		_
+529	credulity	43977	false	_		_
+530	facts	30291	false	_		_
+531	decision	38961	false	_		_
+532	argument	46477	true	given	321	_
+533	proposal	50058	undefined	_		_
+534	point of order	43905 43906 43907	false	_		_
+535	reason	38757	true	given	256	_
+536	doubt	30550	false	_		_
+537	decision	30596	false	_		_
+538	obligation	32454	true	given	275	_
+539	views	44095	false	_		_
+540	obligations	32694	false	_		_
+541	matters	32544	false	_		_
+542	duties	32763	false	_		_
+543	circumstance	30980	false	_		_
+544	difficulties	31108	false	_		_
+545	fact	50205	undefined	_		_
+546	fact	50411	undefined	_		_
+547	aim	50506	undefined	_		_
+548	fact	50577	undefined	_		_
+549	occasion	38643	true	given	258	_
+550	conclusions	50192	undefined	_		_
+551	opportunity	39361	true	given	344	_
+552	argument	44133	true	given	276	_
+553	resolution	43572	false	_		_
+554	aims	39323	true	given	241	_
+555	decisions	50635	undefined	_		_
+556	objectives	39289	false	_		_
+557	doubt	39252	true	given	240	_
+558	desire	39386	true	given	345	_
+559	references	43730	false	_		_
+560	obligation	34537	false	_		_
+561	opinion	43778	true	given	285	_
+562	doubts	39213	false	_		_
+563	plans	30484	true	given	297	_
+564	matters	30338	false	_		_
+565	commitment	35288	false	_		_
+566	failure	50919	undefined	_		_
+567	idea	50960	undefined	_		_
+568	need	50850	undefined	_		_
+569	need	51214	undefined	_		_
+570	view	42955	false	_		_
+571	proposal	44780	false	_		_
+572	idea	44570	false	_		_
+573	possibilities	39570	false	_		_
+574	conclusions	39539	undefined	_		_
+575	matters	33695	false	_		_
+576	point	33858	true	given	299	_
+577	fact	44843	false	_		_
+578	efforts	45195	false	_		_
+579	condition	43161	true	given	295	_
+580	reasons	44969	true	given	337 338	_
+581	questions	30673	false	_		_
+582	view	33894	true	given	300	_
+583	views	30536	false	_		_
+584	plans	30569	true	given	301	_
+585	point of order	26031 26032 26033	false	_		_
+586	matter	34356	false	_		_
+587	matter	26050	false	_		_
+588	aspirations	26185	false	_		_
+589	plans	30520	true	given	296	_
+590	pre-conditions	26761	false	_		_
+591	willingness	26705	true	given	228	_
+592	occasions	37571	false	_		_
+593	question	37346	false	_		_
+594	right	38014	true	given	305	_
+595	danger	42638	true	given	335	_
+596	issue	38166	false	_		_
+597	indicator	42627	false	_		_
+598	opinion	37694	false	_		_
+599	view	37583	false	_		_
+600	way	42610	true	given	306	_
+601	rights	37990	false	_		_
+602	issue	29214	true	external		_
+603	matter	29238	false	_		_
+604	question	37339	false	_		_
+605	rights	46632	false	_		_
+606	rights	46711	false	_		_
+607	fear	46822	true	given	313	_
+608	doubt	48062	false	_		_
+609	opportunity	47905	false	_		_
+610	questions	29923	false	_		_
+611	matters	29692	false	_		_
+612	circumstances	37043	false	_		_
+613	question	42172	true	given	315	_
+614	matters	29552	false	_		_
+615	question	36591	false	_		_
+616	hope	36409	false	_		_
+617	applications	36381	false	_		_
+618	opinion	41965	true	given	316	_
+619	commitments	35989	false	_		_
+620	rights	42088	false	_		_
+621	question	29987	false	_		_
+622	plans	46592	true	given	303	_
+623	matters	29564	false	_		_
+624	decisions	47861	false	_		_
+625	desire	47510	true	given	217	_
+626	rights	46200	false	_		_
+627	effort	47753	true	given	219	_
+628	view	46304	false	_		_
+629	situation	46347	false	_		_
+630	failure	48839	false	_		_
+631	idea	48936	true	given	255	_
+632	fact	49098	true	given	253	_
+633	fact	49001	true	given	252	_
+634	will	45983	false	_		_
+635	situation	45676	false	_		_
+636	decision	48472	false	_		_
+637	trouble	45530	false	_		_
+638	demands	45433	false	_		_
+639	reasons	49343	true	given	237 239	_
+640	proposal	49340	true	external		_
+641	opportunity	49442	true	given	236	_
+642	reason	49436	true	given	237	_
+643	opportunity	49412	true	given	238	_
+644	will	29027	false	_		_
+645	opinion	29014	false	_		_
+646	view	42847	false	_		_
+647	difficulties	28957	false	_		_
+648	job	28887	false	_		_
+649	rights	45228	false	_		_
+650	point	28799	false	_		_
+651	demand	45380	true	given	329	_
+652	duty	45385	true	given	329	_
+653	question	42659	true	given	331	_
+654	rights	45087	false	_		_
+655	reason	49266	true	given	235	_
+656	questions	27923	true	given	351 346 350	_
+657	need	41321	true	given	356	_
+658	fact	41135	false	_		_
+659	hope	41635	true	given	353	_
+660	efforts	41492	false	_		_
+661	hope	41662	false	_		_
+662	hope	41674	true	given	354	_
+663	Rights	28091	false	_		_
+664	will	28374	false	_		_
+665	approaches	39558	true	given	341 347	_
+666	urgings	39602	false	_		_
+667	opportunity	41919	true	given	318	_
+668	reasons	41951	false	_		_
+669	problem	41129	true	given	352	_
+670	right	40304	true	given	355	_
+671	question	40228	false	_		_
+672	law	40426	false	_		_
+673	duties	40725	false	_		_
+674	right	47422	true	given	359	_
+675	rights	47239	true	given	360	_
+676	point of view	74397 74398 74399	false	_		_
+677	choice	73824	false	_		_
+678	issue	73938	true	given	370	_
+679	destinations	73803	false	_		_
+680	question	73414	true	external		_
+681	features	73370	false	_		_
+682	opinions	73362	false	_		_
+683	questions	73268	false	_		_
+684	question	72962	true	given	383	_
+685	proposals	55423	false	_		_
+686	aim	55668	true	given	390	_
+687	opportunities	55804	false	_		_
+688	occasion	55958	true	given	387	_
+689	wish	55868	true	given	391	_
+690	assurance	55947	true	given	389	_
+691	proposals	55179	false	_		_
+692	decision	55220	false	_		_
+693	decision	55249	false	_		_
+694	desire	55330	true	given	398	_
+695	objectives	52878	false	_		_
+696	ambitions	52898	false	_		_
+697	objectives	52791	false	_		_
+698	objectives	52819	false	_		_
+699	objectives	56953	false	_		_
+700	possibility	56830	false	_		_
+701	fact	56495	true	given	502	_
+702	need	56606	true	given	492	_
+703	fact	56462	true	given	502	_
+704	proposal	62917	false	_		_
+705	conclusions	62752	false	_		_
+706	wish	62768	true	given	472	_
+707	fact	62407	true	given	477	_
+708	bid	56064	true	given	501	_
+709	fact	62439	true	given	478	_
+710	objective	52672	false	_		_
+711	fact	52665	false	_		_
+712	requirement	53698	true	given	457	inkorporiert
+713	argument	53819	false	_		_
+714	need	53757	false	_		_
+715	objective	53797	true	given	460	_
+716	hope	54111	true	given	438	_
+717	reasons	53162	false	_		_
+718	fact	53289	true	given	412	_
+719	doubt	53370	false	_		_
+720	arguments	53516	true	given	435	_
+721	fact	53542	true	given	425	_
+722	proposal	53588	false	_		_
+723	reason	54828	true	given	442	_
+724	conclusions	54840	false	_		_
+725	reason	54729	true	given	440	_
+726	hope	54119	true	given	438	_
+727	Needs	54293	false	_		_
+728	proposals	54649	false	_		_
+729	proposals	54661	false	_		_
+730	question	59621	true	given	364	_
+731	need	76657	false	_		_
+732	fact	76682	true	given	465	_
+733	requirement	76580	true	given	470	_
+734	fact	65647	true	given	395	_
+735	requirement	76622	true	given	468	_
+736	question	59768	true	external		_
+737	conclusion	76561	true	given	471	_
+738	fact	57590	undefined	_		_
+739	requests	64811	false	_		_
+740	proof	57433	false	_		_
+741	fact	57237	false	_		_
+742	demands	64668	false	_		_
+743	doubt	76845	false	_		_
+744	view	55126	true	given	371	_
+745	decisions	77094	false	_		_
+746	need	76980	false	_		_
+747	dangers	54896	false	_		_
+748	proposal	65928	true	given	382	_
+749	proposal	65947	false	_		_
+750	attempt	66003	true	given	381	_
+751	fact	58114	false	_		_
+752	fact	58179	true	given	446	_
+753	fact	58203	true	given	444	_
+754	efforts	72292	true	given	469	_
+755	attempt	57713	true	given	511	_
+756	proposal	72072	true	given	455	_
+757	fact	64383	false	_		_
+758	impression	64613	true	given	533	_
+759	question	51889	true	given	380	_
+760	needs	58653	false	_		_
+761	Legal Affairs	65896 65897	false	_		_
+762	view	65911	true	given	385	_
+763	conclusion	58973	true	given	369	_
+764	proposals	59055	false	_		_
+765	Legal Affairs	65975 65976	false	_		_
+766	speculation	58293	false	_		_
+767	question	55381	false	_		_
+768	proposals	64151	false	_		_
+769	question	52646	false	_		_
+770	proposals	64139	false	_		_
+771	area	52491	false	_		_
+772	questions	52513	false	_		_
+773	proposals	65226	false	_		_
+774	suggestion	65294	false	_		_
+775	view	65041	false	_		_
+776	view	65180	false	_		_
+777	decision	64692	false	_		_
+778	proposal	65119	false	_		_
+779	needs	65139	undefined	_		_
+780	circumstance	65313	false	_		_
+781	opportunity	59732	true	given	363	_
+782	position	65526	false	_		_
+783	question	65798	true	given	379	_
+784	question	65809	true	given	379	_
+785	question	65644	false	_		_
+786	fact	59863	true	given	429	_
+787	risks	65678	false	_		_
+788	fact	59177	true	given	361	_
+789	Legal	65062	false	_		_
+790	question	55294	true	given	397 396	_
+791	question	55208	false	_		_
+792	end	55150	true	given	399	_
+793	need	51405	true	given	392	_
+794	opportunities	60347	false	_		_
+795	proposals	51540	false	_		_
+796	arguments	67249	false	_		_
+797	issue	66476	true	given	404 406	_
+798	arguments	67229	false	_		_
+799	issue	66571	true	given	402	_
+800	arguments	67165	false	_		_
+801	assumption	70207	true	given	526	_
+802	view	61083	true	given	405	_
+803	issues	61161	false	_		_
+804	conclusion	67748	false	_		_
+805	matters	61142	false	_		_
+806	feeling	67614	true	given	466	_
+807	effort	67354	false	_		_
+808	right	53076	true	given	409	_
+809	proposal	67803	false	_		_
+810	option	53005	true	given	411	_
+811	objectives	67756	false	_		_
+812	decision	75644	true	given	531	_
+813	objectives	75618	true	given	535	_
+814	decisions	75630	false	_		_
+815	calls	53095	true	given	408	_
+816	proposal	70306	false	_		_
+817	possibility	70314	true	given	496	_
+818	proposal	70283	false	_		_
+819	decision	75594	true	given	531	_
+820	reason	59935	false	_		_
+821	reason	60677	true	given	416 415 420	_
+822	opportunities	60665	false	_		_
+823	proposals	60916	false	_		_
+824	proposal	67855	false	_		_
+825	issues	66320	true	given	414 410	_
+826	opportunities	52151	false	_		_
+827	views	66300	false	_		_
+828	Opportunities	60622	false	_		_
+829	conclusion	70339	false	_		_
+830	reasons	60543	false	_		_
+831	requirements	70319	false	_		_
+832	question	63953	false	_		_
+833	objectives	51741	true	given	401 400 376	_
+834	opportunities	60644	false	_		_
+835	fact	51815	true	given	377	_
+836	objectives	60641	false	_		_
+837	proposals	70382	false	_		_
+838	opportunities	60432	false	_		_
+839	proposal	68093	true	given	473	_
+840	opportunities	60383	false	_		_
+841	reason	68070	false	_		_
+842	requirements	68190	false	_		_
+843	commitment	52822	true	given	418	_
+844	ideas	76229	false	_		_
+845	proposals	76302	false	_		_
+846	commitment	52884	true	given	418	_
+847	proposals	70418	false	_		_
+848	ideas	70433	false	_		_
+849	proposals	70447	false	_		_
+850	intention	60379	true	given	422	_
+851	refusal	76061	true	given	456	_
+852	idea	76157	true	given	452	_
+853	Position	67412	false	_		_
+854	proposal	61036	false	_		_
+855	proposal	66164	false	_		_
+856	position	72796	false	_		_
+857	objective	61369	true	given	407	_
+858	efforts	61229	false	_		_
+859	proposal	61092	false	_		_
+860	issues	60574	false	_		_
+861	question	72447	false	_		_
+862	difficulties	60509	false	_		_
+863	Suggestions	60974	true	given	403	_
+864	possibility	66409	true	given	419	_
+865	Rights	60619	false	_		_
+866	opportunities	74950	false	_		_
+867	efforts	75208	unclear	given	516	_
+868	insistence	53638	true	given	428	_
+869	indication	74853	true	given	504	_
+870	proposals	74782	false	_		_
+871	reason	74833	true	given	508	_
+872	proposal	71211	false	_		_
+873	issue	67145	true	given	430	_
+874	question	59841	true	external		_
+875	question	59818	true	external		_
+876	reason	61824	true	given	489	_
+877	position	66747	false	_		_
+878	functions	60320	true	given	421	_
+879	proposals	67029	false	_		_
+880	commitment	53202	true	given	431	_
+881	views	60155	false	_		_
+882	question	59964	true	given	432	_
+883	proposal	61542	false	_		_
+884	objective	66552	false	_		_
+885	objective	61379	true	given	407	_
+886	proposals	66541	false	_		_
+887	requirements	75337	false	_		_
+888	wish	66914	false	_		_
+889	incentive	66692	false	_		_
+890	way	53592	true	given	436 437	_
+891	possibilities	71253	false	_		_
+892	decision	75523	false	_		_
+893	fact	71262	true	given	481	_
+894	conclusions	71370	false	_		_
+895	fact	71542	undefined	_		_
+896	wishes	71638	false	_		_
+897	conclusion	71666	false	_		_
+898	conclusion	71673	false	_		_
+899	right	63168	false	_		_
+900	question	54619	false	_		_
+901	question	58454	true	given	441	_
+902	opinion	54520	false	_		_
+903	opinion	54496	false	_		_
+904	proposals	74194	false	_		_
+905	possibility	73789	true	given	373	_
+906	question	71915	true	external		_
+907	proposal	73991	false	_		_
+908	proposals	74011	false	_		_
+909	view	68354	true	given	448	_
+910	Rights	76241	false	_		_
+911	adoption	68291	false	_		_
+912	situation	54096	false	_		_
+913	question	72009	true	external		_
+914	position	72138	false	_		_
+915	situation	76055	false	_		_
+916	rights	63881	false	_		_
+917	dangers	63530	false	_		_
+918	requirements	68854	false	_		_
+919	law	62702	false	_		_
+920	question	58077	true	given	449 445	_
+921	proposals	74576	false	_		_
+922	plans	53964	true	given	459	_
+923	issues	53930	false	_		_
+924	situation	63014	false	_		_
+925	need	74465	true	given	365	_
+926	evidence	72146	false	_		_
+927	proposals	74495	false	_		_
+928	advice	72192	false	_		_
+929	policies	72184	false	_		_
+930	position	72220	true	given	467	_
+931	danger	76667	false	_		_
+932	risks	67846	false	_		_
+933	approach	67920	true	given	462	_
+934	difficulties	62771	false	_		_
+935	decisions	68825	false	_		_
+936	opportunity	68479	false	_		_
+937	rights	62797	false	_		_
+938	argument	68761	false	_		_
+939	conviction	68414	false	_		_
+940	views	76356	false	_		_
+941	demand	68117	true	given	451	_
+942	reason	68462	true	given	447	_
+943	rights	76471	false	_		_
+944	incentive	68265	false	_		_
+945	need	69133	undefined	_		_
+946	conclusion	69244	false	_		_
+947	need	69228	true	given	534	_
+948	incentives	69296	true	given	529	_
+949	reasons	69286	true	given	532	_
+950	doubt	73444	false	_		_
+951	opportunity	73281	false	_		_
+952	question	71038	false	_		_
+953	difficulties	70940	false	_		_
+954	requirements	73079	false	_		_
+955	move	62509	unclear	given	476	_
+956	objectives	69122	false	_		_
+957	analysis	71422	false	_		_
+958	this	62184	false	_		_
+959	evidence	77051	false	_		_
+960	argument	69906	false	_		_
+961	promises	69779	false	_		_
+962	opinion	58633	false	_		_
+963	role	58614	true	given	487	_
+964	tasks	58998	false	_		_
+965	proposal	73620	true	given	375	_
+966	point	58880	true	given	482	_
+967	risk	68811	true	given	483	_
+968	amendments	58595	false	_		_
+969	understanding	69087	false	_		_
+970	conclusion	73502	false	_		_
+971	role	71506	true	given	488	_
+972	option	61805	false	_		_
+973	calls	61983	true	given	485	_
+974	failure	69309	false	_		_
+975	needs	69348	false	_		_
+976	question	71716	true	external		_
+977	destination	61343	false	_		_
+978	duty	56571	true	given	491	_
+979	right	56567	true	given	491	_
+980	questions	56851	true	given	494 493 519 520	_
+981	questions	70469	true	given	507 505 509	_
+982	question	74554	true	external		_
+983	commitment	74581	true	given	498	_
+984	fact	63332	true	given	439	_
+985	danger	74475	true	given	495	_
+986	conclusions	63357	true	given	453	_
+987	draft	56168	false	_		_
+988	courage	63620	false	_		_
+989	convictions	63623	false	_		_
+990	reasons	72988	true	given	384	_
+991	fact	72993	true	given	386	_
+992	decision	72924	false	_		_
+993	question	74629	true	given	506	_
+994	question	74652	true	given	506	_
+995	it	74665	false	_		_
+996	opinion	70909	true	given	475	_
+997	hopes	63727	true	given	417	_
+998	opportunity	72767	true	given	423	_
+999	desire	72711	true	given	424	_
+1000	fact	72489	true	given	426	_
+1001	view	74641	false	_		_
+1002	objectives	63937	false	_		_
+1003	guarantees	72896	false	_		_
+1004	objectives	63915	false	_		_
+1005	decision	72841	false	_		_
+1006	requirement	63907	false	_		_
+1007	conclusion	72827	false	_		_
+1008	duty	70713	true	given	503	_
+1009	reasons	63765	false	_		_
+1010	needs	72817	false	_		_
+1011	risk	57514	true	given	512	_
+1012	position	57183	false	_		_
+1013	question	57741	true	given	513	_
+1014	issues	69951	false	_		_
+1015	view	69827	true	given	514	_
+1016	question	75255	true	given	515	_
+1017	position	69773	false	_		_
+1018	position	69722	false	_		_
+1019	holy grail	75426 75427	true	given	518	_
+1020	questions	57137	true	given	517 510	_
+1021	rulings	63959	false	_		_
+1022	right	64502	true	given	362	_
+1023	rights	75558	false	_		_
+1024	statement	64442	true	given	522	_
+1025	questions	70123	true	given	523 521 525	_
+1026	opinions	75793	false	_		_
+1027	issue	75770	false	_		_
+1028	question	69977	true	given	530 528	_
+1029	issue	75817	false	_		_
+1030	rights	75965	false	_		_
