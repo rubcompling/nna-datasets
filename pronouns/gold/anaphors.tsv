@@ -1,0 +1,649 @@
+id	text	iset	np_replfirst_noun	annotationcompleted	np_replfirst_deverbal	namely_difficultcase	np_replalternative	np_repl_difficultcase	namely_majordivergingantecedent	candidateanaphor	namelytest_naemlich	np_replfirst_article	namely_antecedent
+1	es	35		yes						error_wrong_marking			
+2	Es	101		yes						error_wrong_marking			
+3	es	28		yes						error_no_discourse_anaphor			
+4	es	119		yes						error_wrong_marking			
+5	es	709		yes						error_wrong_marking			
+6	das	357	na	yes	na	yes	na	yes	yes	discourse_anaphor		na	
+7	es	364		yes						error_wrong_marking			
+8	es	517		yes						error_wrong_marking			
+9	es	717		yes						error_wrong_marking			
+10	das	1079		yes						error_wrong_marking			
+11	es	945		yes						error_wrong_marking			
+12	es	1022		yes						error_wrong_marking			
+13	Das	1058	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich ob europol und eurojust genauso in der lage sind, sich um diesen bereich zu kuemmern .	diese	4
+14	das	1067	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich ob europol und eurojust genauso in der lage sind, sich um diesen bereich zu kuemmern .	diese	4
+15	Das	1036	massnahme	yes	na	na	yes	yes	na	discourse_anaphor	naemlich dass es fuer die von uns erhoffte europaweite telefonaktion , diese hotline , es bisher nur eine ansage gibt:   ' kein anschluss unter dieser nummer ' .	eine_solche	3
+16	es	1223	forderung	yes	na	yes	yes	na	na	discourse_anaphor	naemlich dass wir  uns darauf konzentrieren sollten, die rechte , die das parlament hat , der oeffentlichkeit zu zeigen .	diese	6
+17	es	1341		yes						deictic			
+18	es	1454		yes						error_wrong_marking			
+19	Das	1214	vorgang	yes	na	yes	yes	na	na	discourse_anaphor	naemlich dass wir bis mitternacht darueber debattieren und ermahnt werden , wir sollen uns kurz fassen	diese	5
+20	es	1445		yes						error_wrong_marking			
+21	es	1310		yes						error_wrong_marking			
+22	es	1241	forderung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass wir uns darauf konzentrieren sollten, die rechte, die das parlament hat, der oeffentlichkeit zu zeigen	diese	6
+23	Es	1616		yes						error_no_discourse_anaphor			
+24	es	1547		yes						error_wrong_marking			
+25	es	1793		yes						error_no_discourse_anaphor			
+26	das	1604		yes						error_wrong_marking			
+27	das	1662		yes						error_wrong_marking			
+28	Das	1650		yes						error_wrong_marking			
+29	es	1482		yes						error_wrong_marking			
+30	das	1694		yes						error_wrong_marking			
+31	das	1494		yes						error_wrong_marking			
+32	es	1679		yes						error_wrong_marking			
+33	Es	1886		yes						error_wrong_marking			
+34	Das	1896		yes						error_wrong_marking			
+35	Das	1837		yes						error_no_discourse_anaphor			
+36	es	1847		yes						error_no_discourse_anaphor			
+37	es	2010		yes						error_wrong_marking			
+38	Das	1917	ansicht	yes	na	na	na	na	na	discourse_anaphor	naemlich,  religionen und kulturen in der europaeischen union zu hierarchisieren	diese	7
+39	Das	1977		yes						error_no_discourse_anaphor			
+40	das	1903		yes						error_no_discourse_anaphor			
+41	es	1954		yes						error_wrong_marking			
+42	es	2046		yes						error_wrong_marking			
+43	es	1851		yes						error_wrong_marking			
+44	das	2268	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass die zahl der christen nicht mehr ab- , sondern wieder zunimmt	eine_solche	9
+45	es	2239	na	yes	na	yes	na	yes	yes	discourse_anaphor	naemlich gemeinsam  eine bluete zu erleben	na	8
+46	Dies	2700	zustand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es leichter ist , an die subventionen zu gelangen	eine_solche	13
+47	Dies	2654	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich diese daten ein fuer alle mal aufzunehmen und dann nur jeweils die aenderungen zu beruecksichtigen	eine_solche	14
+48	Dies	2485	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es eine vielzahl von anregungen des rechnungshofes -- auch aus den vergangenen jahren -- beruecksichtigt und ganz entschieden auch programmvereinfachung auf seine fahnen geschrieben hat	diese	15
+49	es	2459		yes						error_no_discourse_anaphor			
+50	es	2740	na	yes	na	yes	na	yes	na	discourse_anaphor	naemlich zu handeln	na	12
+51	es	2544		yes						error_wrong_marking			
+52	es	2683		yes						error_wrong_marking			
+53	es	2635		yes						error_wrong_marking			
+54	Es	2975		yes						error_wrong_marking			
+55	Es	3112		yes						error_wrong_marking			
+56	es	2991		yes						error_wrong_marking			
+57	Das	2803	massnahme	yes	na	yes	na	na	yes	discourse_anaphor	dass er an den anfang seiner rede die definition der wnaemlich zu definieren, was unter faelschung von medikamenten zu verstehen ist .	diese	18
+58	dies	3127	forderung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass wir die betroffenen laender beim aufbau ihrer faehigkeiten unterstuetzen , sichere medikamente im eigenen land herzustellen und sichere medikamente ins eigene land zu importieren .	diese	17
+59	es	2764		yes						error_wrong_marking			
+60	es	2827		yes						error_wrong_marking			
+61	das	2866	sachverhalt	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass in entwickelten laendern vorwiegend so genannte lifestyle-drogen gefaelscht werden.	diese	16
+62	es	3206		yes						error_wrong_marking			
+63	es	3527		yes						error_wrong_marking			
+64	Es	3277		yes						error_no_discourse_anaphor			
+65	Es	3593		yes						error_wrong_marking			
+66	Das	3195	sachverhalt	yes	na	na	na	yes	na	discourse_anaphor	ob es zu wenig geld dafuer gibt.	diese	20
+67	es	3326		yes						error_wrong_marking			
+68	das	3342		yes						error_no_discourse_anaphor			
+69	das	3255	einschaetzung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass die kuerzung der urspruenglich veranschlagten zahlen um die haelfte  fuer mich schon ein rueckschlag war.	diese	23
+70	das	3348	umstand	yes	na	na	yes	yes	na	discourse_anaphor	naemlich das meeresautobahnen zu nennen	diese	22
+71	es	3517		yes						error_wrong_marking			
+72	es	3188		yes						error_wrong_marking			
+73	es	3629	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich dass man einfach nurmehr den interventionen der staerksten lobbyisten nachgibt und die interessen der menschen entlang den strassen vergisst	eine_solche	19
+74	das	3493	entwicklung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass man bei der halbzeitueberpruefung zum weissbuch ueberlegungen anstellt, die verlagerung des verkehrs auf umweltfreundliche verkehrsmittel nicht mehr als zielsetzung der europaeischen union zu sehen.	diese	21
+75	es	4044		yes						error_no_discourse_anaphor			
+76	es	3661		yes						error_wrong_marking			
+77	Es	3651		yes						error_wrong_marking			
+78	es	3846		yes						error_wrong_marking			
+79	es	3854		yes						error_wrong_marking			
+80	das	4000	sachverhalt	yes	na	yes	na	na	na	discourse_anaphor	naemlich, dass wir seit einem jahr hier im parlament nachfragen , dass der nachweis ueber die notwendigkeit dieser massnahmen im bereich vorratsdatenspeicherung gefuehrt werden soll , und dass wir in diesen tagen zum ersten mal einzelne beispiele fuer diese notwendigkeit geliefert kriegen	diese	24
+81	es	4019	aktion	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass diese beispiele geliefert werden	diese	29
+82	es	3984		yes						error_no_discourse_anaphor			
+83	das	3757		yes						error_wrong_marking			
+84	Das	3977	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir in diesen tagen zum ersten mal einzelne beispiele fuer diese notwendigkeit geliefert kriegen	diese	26
+85	es	3991	forderung	yes	na	yes	na	yes	na	discourse_anaphor	naemlich, dass der nachweis ueber die notwendigkeit dieser massnahmen im bereich vorratsdatenspeicherung gefuehrt werden soll	diese	28
+86	es	3865		yes						error_wrong_marking			
+87	das	3772		yes						error_wrong_marking			
+88	das	3750		yes						error_no_discourse_anaphor			
+89	dies	4306	sachverhalt	yes	na	na	na	yes	na	discourse_anaphor	naemlich, dass er an unsere christliche ueberzeugung appelliert hat	diese	30
+90	es	4484		yes						error_no_discourse_anaphor			
+91	dies	4331	einschaetzung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass religioese ueberzeugungen nicht in die politik einfliessen duerfen	diese	31
+92	Es	4677		yes						error_wrong_marking			
+93	es	4947		yes						error_wrong_marking			
+94	Es	4939		yes						error_wrong_marking			
+95	das	4756	meinung	yes	na	na	na	na	na	discourse_anaphor	naemlich, was ich meine	diese	32
+96	dies	4783		yes						error_no_discourse_anaphor			
+97	es	4835		yes						error_wrong_marking			
+98	Das	4956	tatsache	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es hier  um zwei unterschiedliche nationen in einem land geht	diese	33
+99	es	5100		yes						error_wrong_marking			
+100	es	4971		yes						error_wrong_marking			
+101	Es	5239		yes						error_wrong_marking			
+102	es	5409		yes						error_wrong_marking			
+103	dies	5498	handlung	yes	na	na	na	na	na	discourse_anaphor	naemlich ein allgemeines bekenntnis zur sozialbindung des eigentums abzugeben	eine_solche	34
+104	dies	5442	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich  gewerkschaftsmitarbeiter und sozialrechte in dem bericht mitzubehandeln	eine_solche	37
+105	es	5451		yes						error_wrong_marking			
+106	das	5325	ansicht	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass das insgesammt ein sehr gutes papier und ein guter aktionsplan ist	diese	35
+107	es	5222		yes						error_wrong_marking			
+108	es	5290		yes						error_wrong_marking			
+109	dies	5304	massnahme	yes	na	na	na	na	yes	discourse_anaphor	naemlich einen europaeischen corporate-governance-kodex anzugehen	eine_solche	36
+110	das	5322		yes						error_no_discourse_anaphor			
+111	dies	5524		yes						error_no_discourse_anaphor			
+112	Dies	5377		yes						error_no_discourse_anaphor			
+113	Es	5834		yes						error_wrong_marking			
+114	es	5797		yes						error_wrong_marking			
+115	dies	5706	entwicklung	na	na	na	na	na	yes	discourse_anaphor	naemlich dass es einen echten binnenmarkt ohne diskrimierung gibt.	diese	40
+116	es	5771	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich dass ein aeusserst verschwommener begriff eingefuehrt wurde.	diese	39
+117	es	5822		yes						error_wrong_marking			
+118	Das	5765	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich dass der jetzt zwischen den grossen fraktionen kursierenden kompromiss hat einen aeusserst verschwommenen begriff eingefuehrt hat: die sozialpolitik.	diese	38
+119	es	5865		na						error_wrong_marking			
+120	Es	5566		yes						error_wrong_marking			
+121	es	5650		yes						error_wrong_marking			
+122	es	5689		yes						error_no_discourse_anaphor			
+123	es	5594		yes						error_wrong_marking			
+124	das	5944	meinung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass sie nicht gegen die dose sind	diese	44
+125	es	5992		yes						error_wrong_marking			
+126	das	6267	massnahme	yes	na	na	yes	na	yes	discourse_anaphor	naemlich  auf mehrweg zu setzten	diese	43
+127	es	6083		yes						error_wrong_marking			
+128	Es	6188		yes						error_wrong_marking			
+129	es	6198		yes						error_wrong_marking			
+130	es	6106		yes						error_no_discourse_anaphor			
+131	Das	6511	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich in europa dem verlust an biodiversitaet einhalt zu gebieten	diese	45
+132	es	6437		yes						error_no_discourse_anaphor			
+133	Es	6557		yes						error_wrong_marking			
+134	das	6428		yes						error_no_discourse_anaphor			
+135	das	6870	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich dass es sehr exekutivlastig ist	diese	47
+136	es	6868		na						error_no_discourse_anaphor			
+137	es	6726		yes						error_wrong_marking			
+138	es	6774	entwicklung	yes	na	na	na	na	na	discourse_anaphor	wenn wir einen separaten ueberblick bekaemen	eine_solche	46
+139	das	7062	handlung	yes	na	na	na	yes	na	discourse_anaphor	naemlich  alle schattenberichterstatter in die diskussion  mit einzubinden und auch in den trilog	diese	52
+140	Das	7298	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich wegbereiter zu sein fuer ein europaeisches patent durch die hintertuer der durchsetzungsrichtlinie	diese	48
+141	Es	7208		yes						error_wrong_marking			
+142	es	7111		yes						error_wrong_marking			
+143	es	7136		yes						error_wrong_marking			
+144	Das	7290	frage	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass wir auf europaeischer ebene kein patent haben , und wir auch nicht wegbereiter sein moechten fuer ein europaeisches patent durch die hintertuer der durchsetzungsrichtlinie	diese	49
+145	Das	7080	behauptung	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass ihre familiaeren verhaeltnisse in der presse auf- und angegriffen wurden	diese	50
+146	es	7704		yes						error_wrong_marking			
+147	es	7660		yes						error_wrong_marking			
+148	das	7509	entwicklung	yes	na	na	na	yes	na	discourse_anaphor	naemlich, dass norwegen mit seinen erdoel- und erdgasvorraeten oder island mit seiner geothermie , mit der erneuerbaren energie uns diesbezueglich ein vorbild sind und uns eine riesenchance bieten , kuenftig auch in der energiepolitik in diesem raum gemeinsame strategien zu entwickeln	diese	53
+149	es	7615		yes						error_wrong_marking			
+150	es	7827	massnahme	yes	yes	na	na	na	na	discourse_anaphor	naemlich eine verstaerkung der sicherheit	eine_solche	55
+151	Es	7940		yes						error_wrong_marking			
+152	Es	8085		yes						error_wrong_marking			
+153	das	7894	sachverhalt	yes	na	na	na	na	na	discourse_anaphor	naemlich dass die vereinbarung ueber die weitergabe von flugpassagierdaten im kampf gegen den terror keinen sinn macht und nicht kohaerent ist.	diese	54
+154	es	8008		yes						error_wrong_marking			
+155	Es	8029		yes						error_wrong_marking			
+156	es	8158		yes						error_wrong_marking			
+157	es	8682		yes						error_wrong_marking			
+158	es	8809	na	yes	yes	na	na	na	na	discourse_anaphor	naemlich die demokratisierung der  uno	na	56
+159	das	8860	zustand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass die zivilgesellschaft der union in der uno besser aufgehoben ist als die buergerkammern	diese	57
+160	Das	9068	tatsache	yes	na	na	yes	yes	na	discourse_anaphor	naemlich, dass der binnenmarkt  die wettbewerbsfaehigkeit staerkt	diese	58
+161	Das	9075	tatsache	na	na	na	yes	yes	na	discourse_anaphor	naemlich, dass der binnenmarkt  die wettbewerbsfaehigkeit staerkt	diese	58
+162	Das	9086	tatsache	yes	na	na	yes	yes	na	discourse_anaphor	naemlich, dass der binnenmarkt  die wettbewerbsfaehigkeit staerkt	diese	58
+163	Das	9107	tatsache	yes	na	na	yes	yes	na	discourse_anaphor	naemlich, dass der binnenmarkt  die wettbewerbsfaehigkeit staerkt	diese	58
+164	das	9053	notwendigkeit	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir gleichzeitig nein sagen muessen zu den tendenzen zu mehr nationalisierung , nein zu den tendenzen zur leistungsfeindlichkeit , nein zu den tendenzen zu mutlosigkeit , nein zum populismus , nein zur novellierung , nein zur industriefeindlichkeit und ja zu mehr leistung , ja zum binnenmarkt , ja zu den vier freiheiten	diese	59
+165	das	9324		yes						error_wrong_marking			
+166	es	9370		yes						error_wrong_marking			
+167	Das	9351	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich die standards zur bewirtschaftung zu vereinheitlichen	diese	61
+168	das	9575	entwicklung	yes	na	na	yes	na	na	discourse_anaphor	naemlich die vorhandene gesetzgebung neu zu erfinden	diese	62
+169	Es	9227		yes						error_wrong_marking			
+170	es	9460		yes						error_no_discourse_anaphor			
+171	es	9612		yes						error_wrong_marking			
+172	das	9240	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass ich zu spaet gekommen bin	diese	60
+173	es	9390		yes						error_wrong_marking			
+174	Es	9549		yes						error_wrong_marking			
+175	es	9975		yes						error_wrong_marking			
+176	dies	9894	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass geld zur verfuegung gestellt werden muss, europol mit kompetenzen ausgestattet werden muss und eine polizei eingerichtet werden muss und dass das daphne-programm ein wirksames instrument bleibt , getrennt von der drogenpraevention	diese	65
+177	Das	9817	forderung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass geld zur verfuegung gestellt werden muss, europol mit kompetenzen ausgestattet werden muss und eine polizei eingerichtet werden muss	diese	64
+178	Es	9795		yes						error_wrong_marking			
+179	Das	9864	forderung	yes	na	na	yes	na	na	discourse_anaphor	naemlich. dass das daphne-programm ein wirksames instrument bleibt , getrennt von der drogenpraevention	diese	63
+180	das	9937		yes						error_no_discourse_anaphor			
+181	Das	10228		yes						error_wrong_marking			
+182	es	10140		yes						error_wrong_marking			
+183	Dies	10720	sachverhalt	yes	na	na	na	yes	na	discourse_anaphor	naemlich, dass fuer alle uebrigen punkte , die vor beginn der letzten verhandlungen anfang dezember noch offen geblieben waren ,zufriedenstellende ergebnisse erzielt wurden	diese	66
+184	Dies	11067	moeglichkeit	yes	na	yes	na	na	na	discourse_anaphor	naemlich dass ueber den binnenmarksaspekt hinaus die europaeische normung ein ganzes spektrum politischer massnahmen der gemeinschaft unterstuetzen kann, durch die die wettbewerbsfaehigkeit der europaeischen unternehemen gesteigert werden kann	diese	67
+185	es	10929		yes						error_wrong_marking			
+186	es	11492		yes						error_wrong_marking			
+187	Es	11463		yes						error_wrong_marking			
+188	Das	11656		yes						error_no_discourse_anaphor			
+189	Dies	11300		na						error_no_discourse_anaphor			
+190	das	11622		yes						error_no_discourse_anaphor			
+191	es	11408		yes						error_wrong_marking			
+192	das	11596		yes						error_no_discourse_anaphor			
+193	dies	11625		yes						error_no_discourse_anaphor			
+194	dies	11448	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich ,  dass sie ihre eigenen gas-pipelines behalten kann , dass diese nicht in andere haende geraten	eine_solche	71
+195	dies	11648		na						error_no_discourse_anaphor			
+196	dies	11532	sachverhalt	yes	na	yes	na	na	na	discourse_anaphor	naemlich, dass es aber nicht in jedem fall automatisch eine beitrittsperspektive bedeutet	diese	68
+197	Das	11520	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, die reformanstrengungen im inneren zu legitimieren und die regime zu stuetzen	eine_solche	69
+198	dies	11516	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich dieses ziel der nachbarschhaftspolitik erreichen	eine_solche	70
+199	Das	11977	notwendigkeit	yes	na	na	na	na	na	discourse_anaphor	naemlich die lektion daraus zu lernen	diese	72
+200	es	11881		yes						error_wrong_marking			
+201	Das	11894	umstand	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass wir weiterhin negative schlagzeilen ueber die europaeische politik haben  werden, solange es derartige politiken in der europaeischen union gibt	diese	73
+202	Es	11776		yes						error_wrong_marking			
+203	Das	11948		na						error_no_discourse_anaphor			
+204	dies	12257	vorgang	yes	na	yes	na	na	yes	discourse_anaphor	naemlich, wie energiezufuhren  in die europaeische union erfolgen sollen	diese	76
+205	Es	12150		yes						error_wrong_marking			
+206	dies	12160	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir hilfestellung leisten	diese	75
+207	Dies	12464	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich russland technisch und durch zusammenarbeit zu helfen , die visafreiheit herzustellen	diese	78
+208	Es	12170		yes						error_wrong_marking			
+209	dies	12311	forderung	yes	na	na	na	na	yes	discourse_anaphor	naemlich, im bereich der handelsfragen schadensersatzansprueche stellen	eine_solche	74
+210	es	12233		yes						error_wrong_marking			
+211	es	12110		yes						error_wrong_marking			
+212	es	12496		yes						error_wrong_marking			
+213	dies	12425	vorgang	yes	na	yes	na	na	na	discourse_anaphor	naemlich, dass die grenzvertraege unterschrieben oder ratifiziert werden	diese	77
+214	dies	12443	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich russland technisch und durch zusammenarbeit zu helfen , die visafreiheit herzustellen	diese	78
+215	es	12420		yes						error_wrong_marking			
+216	es	12091		yes						error_wrong_marking			
+217	es	12749		yes						error_wrong_marking			
+218	es	12562		yes						error_wrong_marking			
+219	Das	12571	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es im vergangenen jahr in china 9 000 prozesse gegen produktpiraten gab	diese	79
+220	Das	13108	massnahme	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass die konaemlich,  ein moratorium von drei bis fuenf jahren fuer umwelt und verbraucherpolitische gesetzesvorhaben zu erlassen	eine_solche	80
+221	das	12931	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir die kommission bei ihrer klage vor dem europaeischen gerichtshof zu unterstuetzen	diese	81
+222	es	12964		yes						error_wrong_marking			
+223	es	13017		yes						error_wrong_marking			
+224	es	13033		yes						error_wrong_marking			
+225	das	12854		yes						error_no_discourse_anaphor			
+226	das	13350	forderung	yes	na	na	na	na	na	discourse_anaphor	naemlich den verbraucherschutz mit hinzu zu ziehen	diese	83
+227	Das	13231	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass die lissabon-agenda auch die loesung der sozialen komponente im rahmen der globalisierung bringen wird	eine_solche	82
+228	das	13415	tatsache	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass es etwas vollkommen anderes ist als ihre herangehensweise	diese	84
+229	Das	13405	handlung	yes	na	na	na	na	na	discourse_anaphor	naemlich, wenn wir diese mit einbeziehen und mit beruecksichtigen , wir tatsaechlich eine chance haben , handel weltweit fair zu gestalten	eine_solche	85
+230	es	13431		yes						error_no_discourse_anaphor			
+231	Das	13494	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, wenn wir die bereits bestehenden weltweiten standards durchsetzen und nur die waren in die europaeische union importieren , die nach diesen standards produziert werden	eine_solche	87
+232	Dies	13753	massnahme	yes	na	na	yes	na	na	discourse_anaphor	naemlich schadstoffe wie nox und feinstaub in die bemessungsgrundlage fuer die kfz-steuer mit aufzunehmen .	eine_solche	91
+233	Dies	13726	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich dass fahrzeuge mit hoeheren co2-emissionen hoeher besteuert werden als fahrzeuge mit geringeren co2-emissionen	eine_solche	90
+234	es	14090		yes						error_wrong_marking			
+235	Es	13965		yes						error_wrong_marking			
+236	Es	13871		yes						error_wrong_marking			
+237	es	13889		yes						error_wrong_marking			
+238	das	14243	handlung	yes	na	na	na	na	na	discourse_anaphor	naemlich eine empfehlung fuer eine parteipolitische liste in italien zu geben	eine_solche	92
+239	es	14282		yes						error_wrong_marking			
+240	es	14575		yes						error_no_discourse_anaphor			
+241	Es	14322		yes						error_wrong_marking			
+242	was	14522		na						na			
+243	es	14180		yes						error_wrong_marking			
+244	es	14498		yes						error_wrong_marking			
+245	es	14152		yes						error_no_discourse_anaphor			
+246	es	14549		yes						error_wrong_marking			
+247	Es	14172		yes						error_wrong_marking			
+248	dies	14305	umstand	yes	na	na	yes	na	na	discourse_anaphor	naemlich auf einer liste fuer die europawahlen zu kandidieren	diese	93
+249	das	14825		yes						error_no_discourse_anaphor			
+250	es	14876		na						error_wrong_marking			
+251	Das	14700	massnahme	yes	na	na	na	na	yes	discourse_anaphor	naemlich wenn die eu  1 500 soldaten in das drittgroesste afrikanische land schicken wuerde	eine_solche	96
+252	Es	14814	tatsache	yes	na	na	na	na	na	discourse_anaphor	naemlich 'einmal kongo, immer knongo'	diese	94
+253	es	14633		yes						error_wrong_marking			
+254	es	14869	sachverhalt	yes	na	na	na	na	na	discourse_anaphor	naemlich dass es hier tatsaechlich um zugang zu rohstoffen und militaerischer abwehr von fluechtlingen geht	diese	95
+255	Es	14774		yes						error_wrong_marking			
+256	es	14746		yes						error_wrong_marking			
+257	Das	15042	zustand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass sie ihr geld 2004 mit grosser verspaetung erhalten oder dass die programme gar nicht stattfinden koennen	diese	99
+258	Das	15166	handlung	yes	na	na	na	na	na	discourse_anaphor	naemlich wenn von mehr als 50 vorgeschlagenen abaenderungsantraegen 35 abgelehnt werden	eine_solche	98
+259	es	14942		yes						error_wrong_marking			
+260	Das	15385		yes						error_no_discourse_anaphor			
+261	es	15494		yes						error_wrong_marking			
+262	Das	15824	aktion	na	na	na	na	na	na	discourse_anaphor	naemlich, wenn die grossen multinationalen und globalen unternehmen 0,25 % -- also ein viertel prozent -- ihrer gebuehren fuer waehrungstransaktionen , in einen afrikafonds stiften und wenn wir hier im parlament ein viertel prozent der aufwendungen fuer unsere internationalen waehrungsoperationen im haushalt sperren und in einen fonds fuer die hilfe fuer afrika einzahlen	eine_solche	101
+263	Es	15938		yes						error_wrong_marking			
+264	Es	16018		yes						error_wrong_marking			
+265	Es	15897		yes						error_wrong_marking			
+266	es	16214		yes						error_wrong_marking			
+267	es	16293		yes						error_wrong_marking			
+268	das	16424		yes						error_wrong_marking			
+269	Es	16142	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es ihnen gelungen ist , wieder bewegung in den verfassungsprozess zu bringen	diese	104
+270	es	16281		yes						error_wrong_marking			
+271	es	16126		yes						error_wrong_marking			
+272	Das	16310	entwicklung	yes	na	na	yes	na	na	discourse_anaphor	naemlich, auch  in dem bereich innen- und justizpolitik zu mehrheitsentscheidungen zu kommen	eine_solche	105
+273	es	16437		yes						error_wrong_marking			
+274	es	16129		yes						error_wrong_marking			
+275	es	16649		yes						error_wrong_marking			
+276	es	16810		yes						error_wrong_marking			
+277	das	17122	massnahme	yes	yes	na	na	yes	na	discourse_anaphor	die flexibilisierung der arbeitszeiten zum erreichen der vereinbarkeit von familie und beruf	diese	107
+278	Das	17036	zustand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es zwischen 15 und 33 % liegt	diese	106
+279	es	17028		yes						error_no_discourse_anaphor			
+280	das	17001		yes						error_no_discourse_anaphor			
+281	es	17165		yes						error_wrong_marking			
+282	Das	17459		yes						error_wrong_marking			
+283	das	17613	aktion	na	na	na	yes	na	na	discourse_anaphor	naemlich noch bestehende netzwerke , die ihn unterstuetzen , auch wirklich zunichte zu machten	diese	108
+284	es	17268		yes						error_wrong_marking			
+285	dies	17552	entwicklung	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass der rat die positiven schritte , die kroatien gemacht hat , anerkennt	diese	110
+286	Es	17448		yes						error_wrong_marking			
+287	es	17293		yes						error_wrong_marking			
+288	es	17365		yes						error_no_discourse_anaphor			
+289	es	17311		yes						error_wrong_marking			
+290	es	17486		yes						error_wrong_marking			
+291	es	17337		yes						error_wrong_marking			
+292	es	17664		yes						error_wrong_marking			
+293	es	17351	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich eine positive entscheidung zu treffen	eine_solche	109
+294	Das	18048	tatsache	yes	na	na	na	na	na	discourse_anaphor	naemlich dass,  wer auf dauer gegen die menschen zu regieren versucht , scheitern wird	diese	111
+295	Das	17866	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass die buerger , die so frustriert sind , dass sie nicht einmal die reformer unterstuetzen , wohl in anderer weise abstimmen werden, indem sie zu hause bleiben	diese	112
+296	das	18303	zustand	yes	na	na	na	na	na	discourse_anaphor	naemlich patente auf software zu haben	diese	113
+297	es	18273		yes						error_no_discourse_anaphor			
+298	es	18340		yes						error_wrong_marking			
+299	Das	18128	behauptung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir ueber eines der umstrittensten gesetze reden	diese	114
+300	Es	18239		yes						error_wrong_marking			
+301	Es	18178		yes						error_wrong_marking			
+302	es	18148		yes						error_wrong_marking			
+303	es	18361		yes						error_wrong_marking			
+304	das	18734	na	yes	na	na	na	yes	na	discourse_anaphor	naemlich was kollegin grossetête gesagt hat	na	117
+305	das	18721		yes						error_wrong_marking			
+306	es	18541		yes						error_wrong_marking			
+307	Das	18709	einschaetzung	yes	na	na	na	na	na	discourse_anaphor	naemlich, was zum dienstleistungsmarkt gesagt wurde	eine_solche	120 115
+308	dies	18699	sachverhalt	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es die oeffnung eines gemeinsamen marktes betrifft aber kein soziales dumping	diese	120
+309	Es	18511		yes						error_wrong_marking			
+310	Das	18521	sachverhalt	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass es  um ein soziales europa im globalen wettbewerb geht	diese	118
+311	es	18863		yes						error_wrong_marking			
+312	es	18571		yes						error_wrong_marking			
+313	Das	18672		yes						error_wrong_marking			
+314	das	18475	umstand	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass ein ratsdokument in diesem haus  so positiven anklang gefunden hat	diese	119
+315	Es	18780		yes						error_wrong_marking			
+316	es	18596	einschaetzung	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass vie verfassung so negativ oder kritisch gesehen wird	diese	116
+317	Es	18975		yes						error_wrong_marking			
+318	es	19098		na						error_wrong_marking			
+319	Es	19123		yes						error_wrong_marking			
+320	es	19193		yes						error_wrong_marking			
+321	es	19202		yes						error_wrong_marking			
+322	es	18988		yes						deictic			
+323	es	18934		yes						error_wrong_marking			
+324	es	19063		na						error_wrong_marking			
+325	es	18994		yes						error_wrong_marking			
+326	Das	19169	massnahme	yes	na	na	yes	na	yes	discourse_anaphor	naemlich dass wir ein gemeinsames satellitenaufklaerungssystem der europaeischen union und gemeinsame standards fuer die telekommunikation in diesem bereich haben	diese	121
+327	das	19615		yes						error_wrong_marking			
+328	dies	19653		yes						error_no_discourse_anaphor			
+329	das	19462		yes						error_no_discourse_anaphor			
+330	Das	19417	na	yes	yes	na	na	na	na	discourse_anaphor	naemlich maximalharmonisierung im bereich des verbraucherschutzes	na	122
+331	Das	19612		yes						error_wrong_marking			
+332	es	19647		yes						error_wrong_marking			
+333	es	19947		yes						error_wrong_marking			
+334	es	19975		yes						error_wrong_marking			
+335	Es	19668		yes						error_wrong_marking			
+336	es	19998	tatsache	yes	na	na	na	na	yes	discourse_anaphor	naemlich, dass diese debatte nicht mehr zuschauer undzuhoerer hatte	diese	123
+337	es	19962		yes						error_wrong_marking			
+338	Das	19767	forderung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir als haushaltsinstitution tatsaechlich voll und ganz ueber die finanziellen aspekte des galileo-projekts informiert sein sollten	diese	124
+339	es	20141		yes						error_wrong_marking			
+340	es	20437		na						error_no_discourse_anaphor			
+341	es	20590		yes						error_wrong_marking			
+342	es	20298		yes						error_no_discourse_anaphor			
+343	das	20180		na						error_no_discourse_anaphor			
+344	es	20452		yes						error_wrong_marking			
+345	es	20376		yes						error_wrong_marking			
+346	Das	20457	ansicht	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass es schwer vorstellbar ist , dass wir beitrittsverhandlungen mit einem land aufnehmen koennen , das ein mitgliedsland der europaeischen union nicht anerkennt oder truppen in einer solchen zahl dort stationiert hat , dass es den beschluessen der vereinten nationen zuwider laeuft	diese	125
+347	es	20238		yes						error_wrong_marking			
+348	das	20471		yes						error_no_discourse_anaphor			
+349	es	20404		yes						error_wrong_marking			
+350	es	20544		yes						error_wrong_marking			
+351	Es	20493		yes						error_wrong_marking			
+352	dies	20280		yes						error_no_discourse_anaphor			
+353	dies	21053	sachverhalt	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass die nationalen interessen nur noch ueber europa wahrgenommen werden koennen	diese	127
+354	es	20863		yes						error_no_discourse_anaphor			
+355	Es	20943		yes						error_wrong_marking			
+356	das	20793		yes						error_no_discourse_anaphor			
+357	es	21005		yes						error_wrong_marking			
+358	Dies	20743		yes						error_no_discourse_anaphor			
+359	Dies	20711		yes						error_no_discourse_anaphor			
+360	es	20730		yes						error_no_discourse_anaphor			
+361	es	21259		yes						error_no_discourse_anaphor			
+362	Es	21386		yes						error_wrong_marking			
+363	Es	21363		yes						error_wrong_marking			
+364	das	21286	entwicklung	yes	na	yes	na	yes	yes	discourse_anaphor	naemlich dass wir uns von der vorstellung  trennen. gesundheit sei lediglich das ergebnis eines selbst gewaehlten lebensstils	eine_solche	130
+365	Es	21601		yes						error_wrong_marking			
+366	Das	21825	behauptung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass die behandlung der tiere mit den graeueln des naziregimes verglichen wird	eine_solche	133
+367	das	21558		yes						error_wrong_marking			
+368	Das	21648	forderung	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass das ganze  in einem sinnvollen oekonomischen kontext bleiben muss , und es muss auch den rechtsvorschriften der europaeischen union entsprechen   in einem sinnvollen oekonomischen kontext bleiben , und es  auch den rechtsvorschriften der europaeischen union entsprechen muss	diese	132
+369	Es	21655		yes						error_wrong_marking			
+370	es	21638		yes						error_no_discourse_anaphor			
+371	Das	21684	forderung	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass diese wohlbehalten und unter bestmoeglichen bedingungen am zielort ankommen	diese	131
+372	es	22073		yes						error_no_discourse_anaphor			
+373	Das	21970	umstand	yes	na	yes	na	na	na	discourse_anaphor	naemlich, dass sie parallel dazu eine gute ausbildung brauchen, dass sie bildung brauchen, dass sie die entsprechende infrastruktur brauchen	diese	135
+374	Es	22174		yes						error_wrong_marking			
+375	Das	22210	tatsache	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir auch weiterhin die beihilfen gemaess artikel 87 fuer die regionen, die jetzt vom statistischen effekt betroffen sind, brauchen	diese	136
+376	das	22041	umstand	yes	na	na	na	yes	na	discourse_anaphor	naemlich, dass sie tatsaechlich auch fuer dienstleistungen im sinne des oeffentlichen interesses wahrgenommen werden	diese	137
+377	Es	22055		yes						error_no_discourse_anaphor			
+378	Es	22156		yes						error_wrong_marking			
+379	Das	22141	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass diese unternehmen geschlossen werden, die produktion ausgelagert wird, und dann noch einmal subventioniert wird	eine_solche	134
+380	es	22340		yes						error_wrong_marking			
+381	Das	22628	vorgang	yes	na	na	na	na	na	discourse_anaphor	naemlich das die damalige kommission prodi handelte ohne vorwarnung und ohne die arbeitnehmer rechtzeitig zu konsultieren und zu informieren	eine_solche	138
+382	Es	22863		yes						error_wrong_marking			
+383	es	22744		yes						error_wrong_marking			
+384	Es	22551		yes						error_wrong_marking			
+385	es	23115		yes						error_no_discourse_anaphor			
+386	Das	23064	tatsache	yes	na	na	na	na	na	discourse_anaphor	naemlich dass bei einer aussprache zu diesem thema die evp-fraktion 18 minuten zur verfuegung hat , meine fraktion 14 , die liberalen 7 , die gruenen 4,5 .	diese	139
+387	Das	23005	umstand	yes	na	na	na	na	na	discourse_anaphor	dass der rat  30 minuten redezeit , die kommission 20 minuten redezeit und das gesamte plenum 60 minuten erhaelt	diese	142
+388	Das	23102	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich dass wenn ich alle meine expertinnen und experten zu wort kommen lassen wuerde , ich schon mehr redezeit braeuchte, als wir hier zur verfuegung haben.	diese	144
+389	Das	23120	umstand	yes	na	na	na	na	na	discourse_anaphor	dass fraktionen ihre redezeiten so weit reduzieren , dass es diese ein-minuten-reden gibt.	diese	143
+390	das	23251	handlung	yes	na	na	na	yes	na	discourse_anaphor	meine kernbotschaften auch in fuenf minuten rueberzubringen	diese	141
+391	das	23380	na	yes	na	na	yes	yes	na	discourse_anaphor	dass [am nachmittag redet zu den berichten , die ich eben hier vorgetragen habe , der rat 50 minuten , die komnaemlich dass der berichterstatter brok fuenf minuten hat	diese	140
+392	das	23267	umstand	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass ich hier einmal 20 minuten zur verfuegung haette	eine_solche	146
+393	Das	23136	entwicklung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass fraktionen ihre redezeiten so weit reduzieren, dass es diese ein-minuten-reden gibt.	diese	143
+394	das	23398	zustand	yes	na	na	na	na	na	discourse_anaphor	dass [alle abgeordneten 90 minuten haben] naemlich dass am nachmittag zu den berichten, die ich eben hier vorgetragen habe, der rat 50 minuten redet, die kommission 50 minuten, der berichterstatter brock fuenf minuten hat und alle abgeordneten 90 minuten haben.	diese	145
+395	Es	23860		yes						error_wrong_marking			
+396	das	23578	na	yes	yes	na	na	na	yes	discourse_anaphor	naemlich die illegale einleitung	na	148
+397	das	23798	forderung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass  das zukuenftig auch auf see moeglich sein muss	diese	152
+398	es	23760		yes						error_wrong_marking			
+399	Das	23782	vorgang	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass die lkws nicht nur auf den hoefen kontrolliert werden , sondern auch auf der strasse	diese	151
+400	es	23613		yes						error_wrong_marking			
+401	es	23685	zustand	yes	na	na	na	na	na	discourse_anaphor	naemlich dass staaten  diese richtlinie nicht ordentlich umgesetzt haben	diese	147
+402	es	23508		na						error_no_discourse_anaphor			
+403	das	23912	entwicklung	yes	na	na	yes	na	na	discourse_anaphor	naemlich nicht nur die katastrophen zu vermeiden sondern auch gezielte , boesartige , kriminelle delikte auf unseren meeren nicht mehr zuzulassen	diese	149
+404	es	23543		na						error_wrong_marking			
+405	das	23564	na	yes	yes	na	na	na	yes	discourse_anaphor	naemlich die illegale einleitung	na	148
+406	es	23556		na						error_wrong_marking			
+407	es	24092		yes						error_wrong_marking			
+408	es	23994		yes						error_no_discourse_anaphor			
+409	es	23965		yes						error_wrong_marking			
+410	es	24407		yes						error_wrong_marking			
+411	Es	24433		yes						error_wrong_marking			
+412	Das	24447	frage	yes	na	na	na	na	na	discourse_anaphor	naemlich, wo  der nutzen fuer den verbraucher liegt	diese	153
+413	dies	24689	moeglichkeit	yes	na	na	na	yes	na	discourse_anaphor	naemlich,  dass im gesamten binnenmarkt ein und dieselbe maschine mit ein und derselben ausfuehrung in den verkehr gebracht werden kann	diese	155
+414	dies	24704	zustand	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass im gesamten binnenmarkt ein und dieselbe maschine mit ein und derselben ausfuehrung in den verkehr gebracht werden kann und dass dies alles natuerlich ohne zusaetzliche pruefungen in den mitgliedstaaten der europaeischen union moeglich ist	diese	154
+415	Das	24590		yes						error_no_discourse_anaphor			
+416	dies	24731	sachverhalt	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass im gesamten binnenmarkt ein und dieselbe maschine mit ein und derselben ausfuehrung in den verkehr gebracht werden kann und dass dies alles natuerlich ohne zusaetzliche pruefungen in den mitgliedstaaten der europaeischen union moeglich ist	diese	154
+417	Dies	24825		yes						error_no_discourse_anaphor			
+418	Das	25044		yes						error_wrong_marking			
+419	Dies	25103	zustand	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass der verfassungsentwurf den neuen zielen der gemeinsamen agrarpolitik nach der agrarreform nicht rechnung traegt	diese	156
+420	es	25064		yes						error_wrong_marking			
+421	es	25308		yes						error_no_discourse_anaphor			
+422	Es	25291		yes						error_wrong_marking			
+423	Dies	25506	moeglichkeit	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass zwei richtlinien , die eine aehnliche materie behandeln , auch in der mitgliedstaatlichen gesetzgebung gleich behandelt werden koennen	diese	157
+424	das	25586	problem	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass unsere verhandlungsposition gegenueber den amerikanern in der frage der durchsetzung von ias verschlechtert werden koennte	diese	160
+425	Es	25465		yes						error_wrong_marking			
+426	es	25354	na	yes	yes	na	na	na	na	discourse_anaphor	naemlich die verpflichtung zur quartalsberichterstattung	na	159
+427	das	26088		na						error_no_discourse_anaphor			
+428	es	25963		yes						error_no_discourse_anaphor			
+429	das	25912	zustand	na	na	na	yes	na	na	discourse_anaphor	naemlich, dass  es auch eine verbindung gibt zwischen einer anstaendigen nationalen industriepolitik , die sich vielleicht in einem mitgliedstaat abspielt und einer anstaendigen industriepolitk, die wir in europa machen	diese	162
+430	es	25893		yes						error_wrong_marking			
+431	Das	25743	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir aber auf der anderen seite die zweite saeule nicht vergessen , naemlich gesundheitsschutz , umweltschutz und arbeitnehmerschutz	diese	164
+432	das	25754	massnahme	na	na	na	na	na	na	discourse_anaphor	naemlich, dass wir auf der einen seite alles tun wollen , um eine vernuenftige industriepolitik zu betreiben , sie weiter auszubauen und die wettbewerbsfaehigkeit zu erhalten , dass wir aber auf der anderen seite die zweite saeule nicht vergessen , naemlich gesundheitsschutz , umweltschutz und arbeitnehmerschutz	diese	163
+433	Das	25993		yes						error_no_discourse_anaphor			
+434	Das	25738	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir aber auf der anderen seite die zweite saeule nicht vergessen , naemlich gesundheitsschutz , umweltschutz und arbeitnehmerschutz	diese	161
+435	es	25786		yes						error_no_discourse_anaphor			
+436	Es	26296		yes						error_wrong_marking			
+437	Es	26436		yes						error_wrong_marking			
+438	dies	26183		na						error_no_discourse_anaphor			
+439	es	26362		yes						error_wrong_marking			
+440	Es	26117		yes						deictic			
+441	Es	26315		yes						error_wrong_marking			
+442	es	26211	einschaetzung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass wir natuerlich nicht absolut zufrieden sind, aber wir wissen auch , dass mehr nicht erreichbar war .	diese	165
+443	es	26192		yes						error_wrong_marking			
+444	es	26305		yes						error_wrong_marking			
+445	es	26729		yes						error_no_discourse_anaphor			
+446	es	26695		yes						error_wrong_marking			
+447	dies	27008	problem	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass wir nicht mit dem wort terrorismus die innere sensibilitaet abstumpfen lassen und eine generalvollmacht fuer jede art von kampf ausstellen duerfen	diese	166
+448	es	26975	umstand	yes	na	yes	na	na	na	discourse_anaphor	naemlich, dass wir hier im kampf einem gegner aus dem dunklen gegenueberstehen, der ungreifabr und ohne jede grenze ist	diese	167
+449	Das	26922	na	yes	na	na	na	yes	na	discourse_anaphor	naemlich, diesem kampf zu gewinnen , ohne selbst die maessigung zu verlieren , die menschlichkeit abzulegen , die eigenen gesetze zu verraten und die freiheit des menschen im eigenen , inneren bereich zu gefaehrden	na	169
+450	es	26886		yes						error_wrong_marking			
+451	Das	26963	umstand	yes	na	yes	na	na	yes	discourse_anaphor	naemlich, dass wir hier im kampf einem gegner aus dem dunkeln gegenueberstehen, der ungreifabr und ohne jede grenze ist	diese	167
+452	Das	27106	na	yes	na	na	na	yes	na	discourse_anaphor	naemlich, dass sie die grundlagen mit der charta der grundrechte , der mitentscheidung des parlaments , der oeffentlichkeit , der gesetzgebung , der solidaritaetsklausel , der informationellen selbstbestimmung des menschen , der parlamentarischen und gerichtlichen kontrolle , der aufloesung der saeulenstruktur zugunsten eines gemeinschaftlichen europas schafft	na	168
+453	Es	27011		yes						error_wrong_marking			
+454	Es	27337		yes						error_wrong_marking			
+455	es	27392		yes						error_no_discourse_anaphor			
+456	es	27442		yes						error_wrong_marking			
+457	es	27453		yes						error_wrong_marking			
+458	es	27489		yes						error_wrong_marking			
+459	das	27586		yes						error_wrong_marking			
+460	es	27582		yes						error_wrong_marking			
+461	Es	27609		yes						error_wrong_marking			
+462	Es	27811		yes						error_wrong_marking			
+463	es	28044		yes						error_wrong_marking			
+464	Es	28089		yes						error_wrong_marking			
+465	Dies	27962	sachverhalt	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir nur so  unseren bauern planungssicherheit bieten koennen	diese	171
+466	es	28065		yes						error_wrong_marking			
+467	es	28142	massnahme	yes	na	yes	na	na	yes	discourse_anaphor	naemlich die loesungen umzusetzten	eine_solche	170
+468	Das	28374	na	na	yes	na	na	na	na	discourse_anaphor	naemlich die entschuldung	na	174
+469	das	28314	problem	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass das im fall von indonesien in diesem jahr 4 mrd euro waeren, die indonesien zurueckzahlen muesste	diese	175
+470	dies	28211	sachverhalt	yes	na	na	yes	na	na	discourse_anaphor	naemlich,  dass es in den laendern des suedens zu keiner selbststaendigen dynamischen wirtschaftlichen entwicklung kommen kann	diese	172
+471	es	28189		yes						error_wrong_marking			
+472	es	28302		yes						error_wrong_marking			
+473	Das	28332	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass das in diesem jahr vier milliarden euro waeren, die indonesien zurueckzahlen muesste	diese	173
+474	das	28319		na						error_no_discourse_anaphor			
+475	es	28585		yes						error_wrong_marking			
+476	Das	28473	sachverhalt	yes	na	na	yes	na	yes	discourse_anaphor	naemlich, dass in der schweiz 66 % der gueter auf der schiene transportiert werden und 30 % auf der strasse und dass  in der eu das verhaeltnis umgekehrt und sogar noch viel krasser ist	diese	176
+477	Das	28678	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass dieser maximalbetrag  so niedrig ist, dass kein mensch ernsthaft davon ausgehen kann , dass ueberhaupt ein richtiger anreiz besteht , von der strasse auf die schiene zu wechseln und dass es den laendern auch nicht erlaubt ist, den grossteil dieser gelder fuer die alternative zu verwenden	diese	177
+478	Es	28660		yes						error_wrong_marking			
+479	was	28483		na						na			
+480	das	28612		yes						error_no_discourse_anaphor			
+481	das	28481		yes						error_wrong_marking			
+482	es	28822		yes						error_wrong_marking			
+483	es	29110		yes						error_wrong_marking			
+484	Das	29140		yes						error_no_discourse_anaphor			
+485	es	28895		yes						error_wrong_marking			
+486	Das	29265	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, wenn sie sie wahrnehmen, wenn sie sich aendern, wenn sie die zeit des schweigens der oesterreichischen innenplitik beenden, wenn sie zu einem europaeischen aufklaerer werden	eine_solche	179
+487	Es	28874		yes						error_wrong_marking			
+488	es	29156		yes						error_wrong_marking			
+489	es	29042	na	yes	na	na	na	yes	na	discourse_anaphor	naemlich vertrauen herstellen	na	178
+490	es	29195		yes						error_no_discourse_anaphor			
+491	es	29147		yes						error_wrong_marking			
+492	es	29164		yes						error_wrong_marking			
+493	das	29518	ansicht	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass man in verschiedenen europaeischen staaten glaubte, man muesste rasch handeln , man muesste die amerikaner unterstuetzen .	diese	180
+494	es	29553		yes						error_wrong_marking			
+495	Es	29460		yes						error_wrong_marking			
+496	es	29824		yes						error_wrong_marking			
+497	Es	29847		yes						error_wrong_marking			
+498	es	29645	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich dass sie , frau kommissarin , heute diese balance wirklich exzellent getroffen haben	diese	181
+499	dies	29951		yes						error_no_discourse_anaphor			
+500	Dies	30212	massnahme	yes	na	na	na	yes	na	discourse_anaphor	naemlich hilfe zu organisieren , einen dialog zustande zu bringen , strukturen zu bauen , aus denen dann eine dauerhafte entwicklung erwaechst	diese	185
+501	es	30359		yes						error_wrong_marking			
+502	es	30295		yes						error_wrong_marking			
+503	dies	30111	aktion	yes	na	na	na	na	na	discourse_anaphor	naemlich deutlich zu machen, dass terror in keiner weise begruendet sein kann und wir immer gegen terror sind , der hier von minderheiten im irak veruebt wird , und dass wir die mehrheit der bevoelkerung unterstuetzen muessen	eine_solche	182
+504	es	29899		yes						error_wrong_marking			
+505	es	30222		yes						error_no_discourse_anaphor			
+506	dies	30049	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass sie nicht hingeht	diese	183
+507	es	30031		yes						error_wrong_marking			
+508	es	30043		yes						error_wrong_marking			
+509	es	29915		yes						error_wrong_marking			
+510	Das	30018	sachverhalt	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir uns als uno erst dann wieder voll engagieren , dort wieder hingehen koennen , wenn sicherheit gegeben ist	eine_solche	186
+511	es	30243		yes						error_wrong_marking			
+512	das	30469	na	yes	na	na	na	yes	na	discourse_anaphor	naemlich, dass der vorschlag des rates und der vier staaten keine entschaedigungsregelung enthaelt	na	189
+513	das	30687	na	yes	yes	na	na	na	na	discourse_anaphor	naemlich das vertrauen in kontrolle	na	188
+514	es	30558		yes						error_wrong_marking			
+515	es	30411		yes						error_wrong_marking			
+516	das	30593		yes						error_no_discourse_anaphor			
+517	Es	31025		yes						error_wrong_marking			
+518	Es	30932		yes						error_wrong_marking			
+519	es	30749		yes						error_wrong_marking			
+520	Es	31151		yes						error_wrong_marking			
+521	das	31264	umstand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass die anzahl der beschwerden stetig ansteigt	diese	191
+522	es	31559		yes						error_wrong_marking			
+523	es	31293		yes						error_wrong_marking			
+524	Das	31452	massnahme	yes	na	na	na	na	yes	discourse_anaphor	naemlich, dass sie voll zu unterstuetzen sind	diese	190
+525	Es	31609		yes						error_wrong_marking			
+526	Es	31633		yes						error_no_discourse_anaphor			
+527	das	31996	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich auch die moeglichkeit des rueckholrechts zu h	diese	195
+528	das	32131		yes						error_wrong_marking			
+529	Es	31786		yes						error_wrong_marking			
+530	was	32134		na						na			
+531	was	32236		na						na			
+532	Es	31764		yes						error_wrong_marking			
+533	das	31861	moeglichkeit	yes	yes	na	na	yes	na	discourse_anaphor	naemlich einen teil unserer gesetzgebungskompetenz herzugeben	diese	194
+534	es	31983		yes						error_wrong_marking			
+535	Es	31736		yes						error_wrong_marking			
+536	das	32015	moeglichkeit	yes	na	na	na	na	na	discourse_anaphor	aemlich auch die moeglichkeit des rueckholrechts zu h	diese	195
+537	was	32220		na						na			
+538	es	31847		yes						error_wrong_marking			
+539	es	32586		yes						error_wrong_marking			
+540	Das	32344	umstand	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass inzwischen aus dieser ehemals gouvernementalen zusammenarbeit eine interinstitutionelle sache geworden ist	diese	196
+541	das	32405		yes						error_no_discourse_anaphor			
+542	es	32468		yes						error_wrong_marking			
+543	es	32330		yes						error_wrong_marking			
+544	Es	32578		yes						error_wrong_marking			
+545	es	32290		yes						error_wrong_marking			
+546	es	32354		yes						error_wrong_marking			
+547	Es	32741		yes						error_wrong_marking			
+548	es	33071		yes						error_no_discourse_anaphor			
+549	Das	33093	sachverhalt	yes	na	na	na	na	yes	discourse_anaphor	naemlich, das syrien sich jetzt daran messen lassen muss, ob es hamas und hisbollah im libanon und in syrien bekaempft ,weil sie ansonsten kein guter partner der europaeischen politik sein koennen	diese	198
+550	das	32724	ereignis	yes	na	na	yes	yes	yes	discourse_anaphor	naemlich, dass wir heute praesident juschtschenko hier haben	diese	197
+551	es	33028		yes						error_no_discourse_anaphor			
+552	das	32950		yes						error_wrong_marking			
+553	das	33378	na	na	na	yes	na	na	na	discourse_anaphor		na	
+554	Das	33734	na	yes	na	na	na	yes	na	discourse_anaphor	naemlich, dass alles verboten ist, es sei denn , es ist erlaubt	na	200
+555	das	33783	sachverhalt	yes	na	na	na	yes	yes	discourse_anaphor	naemlich, dass es nicht nur um etiketten , sondern auch um werbeangaben geht	diese	199
+556	es	33729		yes						error_no_discourse_anaphor			
+557	es	33769		yes						error_wrong_marking			
+558	es	33776		yes						error_wrong_marking			
+559	Es	33476		yes						error_wrong_marking			
+560	es	33471		yes						error_wrong_marking			
+561	dies	33631	entwicklung	yes	na	na	na	na	yes	discourse_anaphor	naemlich gegen die dickleibigkeit vieler kinder etwas zu tun	eine_solche	201
+562	Das	33623	einschaetzung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir in europa gegen die dickleibigkeit vieler kinder etwas tun muessen	diese	202
+563	es	33725		yes						error_wrong_marking			
+564	Das	33893		yes						error_no_discourse_anaphor			
+565	es	34056		yes						error_no_discourse_anaphor			
+566	es	34033		yes						error_wrong_marking			
+567	es	34042	entwicklung	yes	na	na	na	na	yes	discourse_anaphor	naemlich was geschieht wenn wir keine fuelle von konkreten massnahmen haben	eine_solche	203
+568	es	34049	problem	yes	na	na	na	na	yes	discourse_anaphor	naemlich was geschieht wenn wir keine fuelle von konkreten massnahmen haben	diese	203
+569	es	34315		yes						error_wrong_marking			
+570	Es	34480		yes						error_wrong_marking			
+571	Es	34571		yes						error_wrong_marking			
+572	es	34962		yes						error_no_discourse_anaphor			
+573	es	34945		yes						error_no_discourse_anaphor			
+574	das	34650		yes						error_wrong_marking			
+575	es	34950		yes						error_no_discourse_anaphor			
+576	es	34970		yes						error_no_discourse_anaphor			
+577	es	34940		yes						error_no_discourse_anaphor			
+578	Dies	34824	forderung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass die infrastrukturellen investitionen durch israel nicht wieder zerstoert werden	diese	204
+579	es	34986		yes						error_no_discourse_anaphor			
+580	es	35127		yes						error_wrong_marking			
+581	es	35252		yes						error_wrong_marking			
+582	es	35491		yes						error_wrong_marking			
+583	Das	35401	umstand	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass andere an diese stelle treten und einfluss gewinnen	diese	205
+584	dies	35618	sachverhalt	yes	na	yes	yes	na	na	discourse_anaphor	dass er der gewalt abgeschworen hat und dass er das existenzrecht des staates israel anerkannt hat.	diese	
+585	es	35485		yes						error_wrong_marking			
+586	Dies	35308		yes						deictic			
+587	es	35374		yes						error_wrong_marking			
+588	Es	35329		yes						error_wrong_marking			
+589	es	35846		yes						error_wrong_marking			
+590	es	36030	massnahme	yes	yes	na	yes	na	na	discourse_anaphor	dieser einbau	diese	210
+591	es	35791	einschaetzung	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass ich diese zahlen fuer masslos ueberschaetzt halte.	diese	209
+592	es	36157		yes						error_wrong_marking			
+593	es	35953		yes						error_wrong_marking			
+594	das	35913	meinung	yes	na	na	na	yes	na	discourse_anaphor	naemlich dass offensichtlich sicherheit nur mehr in einem technologischen kontext verstanden wird	eine_solche	207
+595	es	36021		yes						error_wrong_marking			
+596	Es	35997		yes						error_wrong_marking			
+597	es	36064	massnahme	yes	na	na	yes	na	na	discourse_anaphor	naemlich ein solches ding einzubauen	eine_solche	206
+598	Das	35898	umstand	yes	na	na	yes	na	na	discourse_anaphor	naemlich dass wenn es um massnahmen geht , die wirklich an die substanz der unfaelle gehen , die wirklich das potenzial haetten , menschen zu einem besseren fahrverhalten zu bringen , wie etwa der verzicht auf alkohol oder an die fahrverhaeltnisse angepasste geschwindigkeiten , dann im verkehrsausschuss entsprechende antraege samt und sonders abgelehnt  werden.	diese	208
+599	es	35941		yes						error_wrong_marking			
+600	es	35924		yes						error_wrong_marking			
+601	Es	36069		yes						error_wrong_marking			
+602	das	36548		yes						error_wrong_marking			
+603	Es	36407		yes						error_wrong_marking			
+604	es	36366		yes						error_wrong_marking			
+605	es	36230		yes						error_wrong_marking			
+606	es	36315		yes						error_wrong_marking			
+607	Es	36493		yes						error_wrong_marking			
+608	es	36528		yes						error_wrong_marking			
+609	Das	36471	entwicklung	yes	na	na	yes	yes	na	discourse_anaphor	naemlich dass aethiopien und eritrea ihren konflikt auf dem gebiet von somalia ausfechten	diese	211
+610	es	36453		yes						error_wrong_marking			
+611	es	36831		yes						error_wrong_marking			
+612	Es	36822		yes						error_wrong_marking			
+613	es	36837	sachverhalt	yes	na	na	na	na	na	discourse_anaphor	naemlich dass es keine beimischungsverpflichtung gab	diese	212
+614	das	36596		yes						error_wrong_marking			
+615	es	37099	na	yes	na	yes	na	yes	na	discourse_anaphor		na	
+616	das	37062	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass in den vermittlungsverfahren eine reihe von substanziellen fortschritten in unsere richtung erzielt worden sind	diese	213
+617	was	37224		na						na			
+618	Es	37288		yes						error_wrong_marking			
+619	was	37265		na						na			
+620	was	37188		na						na			
+621	dies	37218	na	yes	yes	na	na	na	na	discourse_anaphor	naemlich dieser vorschlag	na	215
+622	Das	37152	entwicklung	yes	na	na	yes	na	na	discourse_anaphor	naemlich, dass durch die uebertreibung bei den oeko-sozialen kriterien der binnenmarkt wieder zurueckgefahren wird gegenueber der situation , die 1993 erreicht wurde	eine_solche	214
+623	es	37238		yes						error_no_discourse_anaphor			
+624	Das	37569	behauptung	yes	na	na	na	na	na	discourse_anaphor	naemlich,  dass eine loesung der zypern-frage die eu bestrebungen der tuerkei erheblich erleichtern wuerde	diese	216
+625	es	37825		yes						error_wrong_marking			
+626	es	37785		yes						error_wrong_marking			
+627	es	37777		yes						error_wrong_marking			
+628	das	37802		yes						error_wrong_marking			
+629	es	37817		yes						error_no_discourse_anaphor			
+630	es	38048	aktivitaet	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir uns der weltpolitik stellen muessen	eine_solche	217
+631	es	38043		yes						error_no_discourse_anaphor			
+632	das	37999	tatsache	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir mit den zahlen, die wir ansetzten, die weichen fuer die zukunft stellen werden und dass sie auch eine grundlage fuer die debatte sein werden	diese	218
+633	es	38020	aktivitaet	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir uns der weltpolitik stellen muessen	eine_solche	217
+634	Das	38382	entwicklung	yes	na	na	na	na	na	discourse_anaphor	dass, wer noch arbeit hat ,  ueberwiegend zu schlechteren konditionen arbeitet.	diese	219
+635	es	38393	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich dass, wer noch arbeit hat ,  ueberwiegend zu schlechteren konditionen arbeitet.	diese	219
+636	es	38648		yes						error_wrong_marking			
+637	Das	38726	zustand	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass wir immer dann krisenstimmung haben, wenn die zukunft europas auf die einstimmige zustimmung des rates statt auf die einigung zwischen den gemeinschaftsinstitutionen angewiesen ist	diese	221
+638	Es	38679		yes						error_wrong_marking			
+639	dies	38602	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich dass das projekt etschlossen, gemeinschaftsorientiert und visionaer zur politischen union weiter entwickelt wird	eine_solche	220
+640	dies	38590	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich dass das projekt etschlossen, gemeinschaftsorientiert und visionaer zur politischen union weiter  entwickelt wird	eine_solche	220
+641	dies	38616	entwicklung	yes	na	na	na	na	na	discourse_anaphor	naemlich dass das projekt etschlossen, gemeinschaftsorientiert und visionaer zur politischen union weiter entwickelt wird	eine_solche	220
+642	das	39139		yes						error_wrong_marking			
+643	Das	39081	massnahme	yes	na	na	na	na	na	discourse_anaphor	naemlich, dass werbung in kinderprogrammen ausgeschlossen sein wird	diese	222
+644	es	39053		yes						error_no_discourse_anaphor			
+645	Das	39045		yes						error_no_discourse_anaphor			
+646	das	39032	massnahme	na	na	na	na	na	na	discourse_anaphor	naemlich diese auch zu foerdern	eine_solche	223
+647	es	38954		yes						error_wrong_marking			
+648	das	39087		yes						error_wrong_marking			

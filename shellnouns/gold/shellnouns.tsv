@@ -1,0 +1,1107 @@
+id	text	iset	shellnoun	content	content_phrase	comment
+1	Beschäftigungsziele	9285	false	_		_
+2	Hauptziele	9804	true	given	139	_
+3	Innovationsnotwendigkeit	9667	true	given	12	_
+4	Gründen	17339	true	given	21	_
+5	Bedürfnisse	7521	false	_		_
+6	Vorstellungen	17564	false	_		_
+7	Begründung	17828	true	given	37	_
+8	Gründen	18020	true	given	179 181 175 177	_
+9	Schlussfolgerung	17805	true	given	36	_
+10	Bedürfnisse	7808	false	_		_
+11	Bedürfnisse	8155	false	_		_
+12	Gründen	8333	false	_		_
+13	Darum	23571	false	_		_
+14	Recht	3034	false	_		_
+15	Recht	2998	false	_		_
+16	Vorstellung	23634	true	given	69	_
+17	Forderung	3052	true	given	217	_
+18	Forderungen	3119	false	_		_
+19	Recht	3099	false	_		_
+20	Mühe	3246	false	_		_
+21	Vorschlag	3168	true	given	215	_
+22	Notwendigkeit	3650	true	given	199	_
+23	Eindruck	3750	true	given	202	_
+24	Konvergenzziele	5459	false	_		_
+25	Fakten	24204	false	_		_
+26	Erfordernissen	5964	false	_		_
+27	Lage	12070	false	_		_
+28	Lage	12083	false	_		_
+29	Frage	12185	true	external		_
+30	Möglichkeit	1231	true	given	191	_
+31	Vorschlag	21798	true	external		_
+32	Forderung	1288	true	given	192	_
+33	Ziele	12706	true	given	20	_
+34	Lage	12623	false	_		_
+35	Meinung	1424	true	implicit		_
+36	Aufgabe	1622	true	given	194	_
+37	Vorschlag	1656	true	external		_
+38	Glauben	22141	true	given	111	_
+39	Fragen	12848	false	_		_
+40	Fragen	12905	false	_		_
+41	Standpunkt	1701	true	implicit		_
+42	Fragen	12857	false	_		_
+43	Antrag	1698	false	_		_
+44	Meinung	12996	true	given	26 30	_
+45	Annahme	1811	false	_		_
+46	Schwierigkeiten	12962	false	_		_
+47	Antrag	1785	false	_		_
+48	Rechte	13246	false	_		_
+49	Antrag	1831	false	_		_
+50	Frage	13052	false	_		_
+51	Anträge	1814	false	_		_
+52	Auffassung	1893	true	given	197	_
+53	Frage	1875	true	given	198	_
+54	dafür	2751	false	_		_
+55	Verpflichtungen	1989	true	implicit		_
+56	Frage	1905	true	given	210	_
+57	dafür	2880	false	_		_
+58	dazu	2797	false	_		_
+59	Umständen	2014	false	_		_
+60	Frage	2155	true	given	212	_
+61	Tatsache	2189	true	given	211	_
+62	Umständen	2184	true	implicit		_
+63	Bedarf	22770	false	_		_
+64	dessen	4828	false	_		_
+65	Recht	2210	false	_		_
+66	Entscheidungen	2351	false	_		_
+67	Forderung	2259	true	given	214	_
+68	Forderungen	2465	true	implicit		_
+69	Forderung	2618	true	given	2	_
+70	Frage	2728	false	_		_
+71	Forderungen	2715	true	given	213	_
+72	Bereitschaft	2796	true	given	165	_
+73	Überzeugung	16572	true	given	65	_
+74	Auffassung	16551	true	given	61	_
+75	Schwierigkeiten	4528	false	_		_
+76	Umständen	16593	false	_		_
+77	Schwierigkeiten	4518	false	_		_
+78	Forderung	16616	true	given	76	_
+79	Vorschlag	4552	true	given	206	_
+80	Antrag	4542	false	_		_
+81	Entscheidung	16709	false	_		_
+82	Möglichkeit	16670	true	given	79	_
+83	Fragen	4563	true	unclear		_
+84	Vorschläge	16741	false	_		_
+85	Entscheidungen	16724	false	_		_
+86	Antrag	4389	false	_		_
+87	Möglichkeiten	16529	true	given	71	_
+88	Vorschlag	4350	true	given	204	_
+89	Überzeugung	4491	false	_		_
+90	Entscheidungen	16837	false	_		_
+91	Hoffnung	16896	true	given	84	_
+92	Ansicht	4768	true	given	186	_
+93	Standpunkt	4670	false	_		_
+94	Aufgaben	17227	true	given	94 92 97 96 101 99 104	_
+95	Standpunkt	4848	false	_		_
+96	Bemühungen	5016	false	_		_
+97	Vorschlag	17375	true	given	24	_
+98	Plan	5323	false	_		_
+99	Plan	5274	false	_		_
+100	Vorschlag	17561	false	_		_
+101	Ansicht	5555	true	given	64	_
+102	Plan	17690	true	given	28	_
+103	Lage	5902	false	_		_
+104	Vorschlag	17651	true	given	28	_
+105	Ziele	17846	true	given	40	_
+106	Notwendigkeit	6000	true	given	83	_
+107	Vorschlag	17790	false	_		_
+108	Lage	5992	false	_		_
+109	Plan	6153	false	_		_
+110	Frage	5254	true	given	60	_
+111	Ziele	17866	true	given	40	_
+112	Ziele	17997	true	given	172	_
+113	Tendenz	17889	false	_		_
+114	Vorschlag	18033	true	given	34	_
+115	Vorschlags	18027	false	_		_
+116	Fragen	6230	false	_		_
+117	Lage	6371	false	_		_
+118	Ansicht	6594	true	given	98 102	_
+119	Tatsache	6460	true	given	95	_
+120	Möglichkeiten	6858	false	_		_
+121	Bereitschaft	7020	true	given	16	_
+122	Antrag	14442	false	_		_
+123	Frage	14580	true	given	44	_
+124	Frage	14695	false	_		_
+125	Entscheidungen	14654	false	_		_
+126	Vorschläge	14233	false	_		_
+127	Recht	14404	false	_		_
+128	Bedürfnisse	837	false	_		_
+129	Grund	721	true	given	188	_
+130	Frage	15127	true	external		_
+131	Sofortmaßnahmen	889	false	_		_
+132	Umstand	14992	true	implicit		_
+133	Beschluss	15209	false	_		_
+134	Auffassung	15189	false	_		_
+135	Frage	15215	true	given	118	_
+136	Hinweis	14891	false	_		_
+137	Überzeugung	14701	true	given	46	_
+138	Möglichkeiten	14899	false	_		_
+139	Bedürfnisse	1003	true	implicit		_
+140	Voraussetzung	15648	true	given	144	_
+141	Voraussetzung	15541	true	given	142	_
+142	Bedürfnisse	1032	true	implicit		_
+143	Recht	3826	false	_		_
+144	Wille	15665	false	_		_
+145	Feststellung	3801	true	given	203	_
+146	Voraussetzung	15860	false	_		_
+147	Vorschlägen	15854	false	_		_
+148	Auffassung	3964	true	given	127 130 129	_
+149	Gefahren	15399	false	_		_
+150	Meinung	15303	false	_		_
+151	Ziel	15461	false	_		_
+152	Zusagen	1546	true	given	195	_
+153	Gefahr	16058	true	given	173	_
+154	Notwendigkeit	4199	true	given	205	_
+155	Hinweis	16050	false	_		_
+156	Antrag	16133	false	_		_
+157	Gefahr	16076	true	given	173	_
+158	Vorschlag	4249	false	_		_
+159	Antrag	16246	true	given	180	_
+160	Antrag	16189	true	given	176	_
+161	Lage	16334	false	_		_
+162	daher	7718	false	_		_
+163	Vorschlag	4309	true	given	204	_
+164	Auffassung	15997	true	given	56	_
+165	Vorschlages	4088	false	_		_
+166	Forderung	15976	true	given	54	_
+167	Vorschlag	4197	false	_		_
+168	Lage	4183	false	_		_
+169	Eindruck	23475	true	given	49	_
+170	Frage	23463	false	_		_
+171	Recht	23535	false	_		_
+172	Eindruck	23487	true	given	50	_
+173	Standpunkt	23198	false	_		_
+174	Pflicht	23086	true	given	143	_
+175	Rechts	23416	false	_		_
+176	Recht	23668	true	given	125	_
+177	Aufgaben	23724	false	_		_
+178	Entscheidungen	23681	false	_		_
+179	Aufgaben	23806	false	_		_
+180	Recht	23790	true	given	75	_
+181	Ziel	23545	true	given	53	_
+182	Recht	23606	true	given	67	_
+183	Rechte	23618	true	given	121 67	_
+184	Recht	23614	true	given	121	_
+185	Fragen	24297	false	_		_
+186	Entscheidungen	13537	false	_		_
+187	Entscheidung	24344	true	external		_
+188	Entscheidungen	13540	true	given	33 170	_
+189	Vorschlag	23986	true	external		_
+190	Antrag	23823	false	_		_
+191	Meinung	24166	true	given	87	_
+192	Ansicht	24072	false	_		_
+193	Möglichkeiten	13787	false	_		_
+194	Gründe	139	true	external		_
+195	Standpunkt	14008	false	_		_
+196	Entscheidung	13928	true	given	31	_
+197	Antrag	14088	false	_		_
+198	Auffassung	14030	true	given	35	_
+199	Recht	22667	true	given	122	_
+200	Vorschlag	22929	false	_		_
+201	Möglichkeit	22995	true	given	133	_
+202	Möglichkeiten	22964	true	given	133	_
+203	Schwierigkeiten	22756	false	_		_
+204	Willen	22722	false	_		_
+205	Frage	22890	false	_		_
+206	Frage	22882	false	_		_
+207	Deshalb	2572	false	_		_
+208	Aktivitäten	12474	true	given	171	_
+209	Grundbedürfnisse	12429	true	given	169	_
+210	Kommissionsvorschlag	14041	false	_		_
+211	Schluss	14255	false	_		_
+212	Tat	15066	false	_		_
+213	Vorgaben	14472	false	_		_
+214	Vorstellungen	10766	false	_		_
+215	Gründe	19390	true	given	62 74 77	_
+216	notwendig	19382	false	_		_
+217	Ende	19969	false	_		_
+218	Schlussfolgerungen	19881	true	external		_
+219	Gründe	11971	true	given	157 156	_
+220	Anstrengungen	20076	true	given	25	_
+221	Abschluss	19988	false	_		_
+222	Ziel	7168	true	given	196	_
+223	Lage	7154	true	given	19	_
+224	Ziel	7237	true	given	22	_
+225	Annahme	7323	false	_		_
+226	Gründe	18187	false	_		_
+227	Vorschlägen	7375	false	_		_
+228	Grund	18414	true	given	105	_
+229	Lage	7350	false	_		_
+230	Ziel	7381	true	given	23	_
+231	Meinung	7408	false	_		_
+232	Vorschlag	7404	false	_		_
+233	Lage	7622	false	_		_
+234	Selbstbestimmung	18792	false	_		_
+235	Vorschläge	7791	true	given	152 151 154	_
+236	Rechte	7843	false	_		_
+237	Vorschläge	7836	false	_		_
+238	Ansicht	7892	true	given	32	_
+239	Vorschlägen	7853	false	_		_
+240	Formen	18930	false	_		_
+241	Wünsche	8153	false	_		_
+242	Möglichkeit	8220	true	given	41	_
+243	Lage	8324	false	_		_
+244	Ansicht	8467	true	given	43	_
+245	Vorschläge	8414	true	given	48 42	_
+246	Vorschlägen	8536	false	_		_
+247	Möglichkeit	8623	true	given	45	_
+248	Auffassung	21362	true	given	182	_
+249	Frage	21603	true	given	174	_
+250	Entscheidung	9974	false	_		_
+251	Standpunkt	21644	true	given	117	_
+252	Bemühungen	10033	false	_		_
+253	Auffassung	21641	false	_		_
+254	Entscheidung	10006	false	_		_
+255	Frage	10205	true	given	141	_
+256	Antrag	21678	true	given	178	_
+257	Versuch	10077	true	given	138	_
+258	Frage	21850	false	_		_
+259	Ansicht	10288	true	given	147	_
+260	Entscheidung	10228	false	_		_
+261	Möglichkeit	10397	true	given	148	_
+262	Fragen	21954	false	_		_
+263	Möglichkeit	10346	true	given	148	_
+264	Lage	9850	false	_		_
+265	Ziel	9830	true	given	139	_
+266	Gelegenheit	21982	true	given	107	_
+267	Fragen	21964	false	_		_
+268	Meinung	21986	false	_		_
+269	Recht	122	false	_		_
+270	Frage	10679	false	_		_
+271	Frage	25	false	_		_
+272	Frage	22020	true	given	114	_
+273	Entscheidung	10610	false	_		_
+274	Eindruck	22450	true	given	119	_
+275	Vorschlag	131	true	external		_
+276	Standpunktes	22334	false	_		_
+277	Antrag	10776	false	_		_
+278	Frage	10782	false	_		_
+279	Umständen	360	false	_		_
+280	Lage	10874	false	_		_
+281	Fragen	20	false	_		_
+282	Frage	10953	false	_		_
+283	Recht	524	false	_		_
+284	Rechte	11014	false	_		_
+285	Voraussetzung	10999	false	_		_
+286	Schlussfolgerungen	21112	true	given	161 116	_
+287	Recht	658	false	_		_
+288	Fragen	11104	false	_		_
+289	Ansicht	558	true	given	167	_
+290	Fragen	11087	false	_		_
+291	Bereitschaft	674	true	given	184	_
+292	Frage	11219	true	given	72	_
+293	Standpunkt	671	false	_		_
+294	Recht	11217	false	_		_
+295	Schlussfolgerungen	21207	false	_		_
+296	Fragen	11443	false	_		_
+297	Lage	11439	false	_		_
+298	Recht	758	false	_		_
+299	Lage	11464	false	_		_
+300	Mut	20925	true	given	168	_
+301	Auffassung	422	true	implicit		_
+302	Fragen	371	true	given	209 208	_
+303	Entscheidung	11532	false	_		_
+304	Recht	11643	false	_		_
+305	Frage	11677	true	given	89	_
+306	Eigenbedarf	21410	false	_		_
+307	Frage	11646	false	_		_
+308	Plan	943	true	given	193	_
+309	Frage	11718	true	given	93	_
+310	Schwierigkeiten	919	true	implicit		_
+311	Frage	11705	true	given	153	_
+312	Vorschlägen	1088	true	external		_
+313	Aufgabe	12047	true	given	103	_
+314	Plan	963	true	implicit		_
+315	Fragen	11831	true	given	150 159 158	_
+316	Möglichkeit	1130	true	implicit		_
+317	Schwierigkeiten	869	false	_		_
+318	Ziel	8638	true	given	47	_
+319	Auffassung	19404	true	given	68	_
+320	Kommissionsvorlage	4613	false	_		_
+321	Tatsache	19335	true	given	55	_
+322	Vorschläge	8818	false	_		_
+323	Fragen	19558	false	_		_
+324	Vorschlag	8800	false	_		_
+325	Eindruck	19442	true	given	70	_
+326	Fördermöglichkeit	4656	true	given	134	_
+327	Forderung	8834	true	given	6	_
+328	Frage	19589	true	given	85	_
+329	Forderung	19297	true	given	57	_
+330	Rechte	19233	false	_		_
+331	Bedürfnissen	970	true	implicit		_
+332	Frage	19836	true	external		_
+333	Vorschläge	9211	true	external		_
+334	Hoffnung	19980	true	given	100	_
+335	Einladung	4985	false	_		_
+336	Ziel	9201	true	given	1	_
+337	Göteborg-Ziele	4971	false	_		_
+338	Fähigkeit	9371	true	given	162	_
+339	Lage	20223	true	external		_
+340	Tatsache	9364	true	given	5	_
+341	Umstände	20107	false	_		_
+342	Entscheidung	19825	true	given	90	_
+343	Vorschläge	8902	false	_		_
+344	Vorschlägen	8951	true	implicit		_
+345	Möglichkeiten	20453	false	_		_
+346	Pflicht	20478	true	given	17	_
+347	Absichten	20465	false	_		_
+348	Plan	20609	true	given	109	_
+349	Meinung	9584	false	_		_
+350	Recht	20811	false	_		_
+351	Auffassung	9490	true	given	9	_
+352	Vorschläge	20671	false	_		_
+353	Möglichkeiten	20442	false	_		_
+354	Ziele	9383	false	_		_
+355	Frage	20372	true	given	15	_
+356	Vorschlag	20826	false	_		_
+357	Ziel	9704	false	_		_
+358	Frage	9684	true	external		_
+359	Frage	20974	true	given	112	_
+360	Frage	9797	false	_		_
+361	Voraussetzungen	21274	true	given	163	_
+362	Meinung	21057	false	_		_
+363	Lage	9642	false	_		_
+364	Recht	20815	false	_		_
+365	Alleinvertretungsanspruch	3437	true	given	136	inkorporiert
+366	Absolutheitsanspruch	3445	true	given	128	inkorporiert
+367	Zusicherung	3209	true	given	200	_
+368	Denkanstöße	3379	true	implicit		_
+369	Ansporn	3817	true	given	201	_
+370	Gegenargument	3820	true	given	201	_
+371	Frage	18271	false	_		_
+372	Tatsache	18406	true	given	108	_
+373	Frage	18112	false	_		_
+374	Ziele	18256	false	_		_
+375	Recht	18813	true	given	131	_
+376	Tendenz	18885	true	given	137	_
+377	Recht	18846	true	given	106	_
+378	Vorschlag	18952	false	_		_
+379	Rechte	18914	false	_		_
+380	Hauptziele	4086	false	_		_
+381	Hinweise	18587	true	given	115	_
+382	Tatsache	18575	true	given	124	_
+383	Recht	18781	true	given	126	_
+384	Recht	18765	true	given	123	_
+385	Vorschlägen	19149	false	_		_
+386	Fragen	19129	false	_		_
+387	Möglichkeit	18987	true	given	140	_
+388	Rechte	18976	false	_		_
+389	Frage	19089	true	given	145	_
+390	Recht	19047	false	_		_
+391	Forderung	19115	true	given	51	_
+392	Köhlerglauben	2280	false	_		_
+393	Beschlüsse	2903	true	implicit		_
+394	Schiedssprüchen	46102	false	_		_
+395	Verfahrensvorschlag	40609	true	given	234	_
+396	Anstrengungen	37643	true	given	246	_
+397	Argument	44053	true	given	252	_
+398	Bestrebungen	38394	true	given	263	_
+399	Schritt	45393	true	given	322	_
+400	Gründen	39713	false	_		_
+401	Ansätze	39256	false	_		_
+402	Entscheidung	28708	false	_		_
+403	Entscheidung	28699	false	_		_
+404	Fragen	28782	true	external		_
+405	Meinungen	28758	false	_		_
+406	Deswegen	41045	false	_		_
+407	Erfordernis	41288	false	_		_
+408	Garantie	41108	false	_		_
+409	Ursache	41298	false	_		_
+410	Tatsache	28885	true	given	339	_
+411	Pläne	28960	true	given	334	_
+412	Absichten	28924	true	given	338	_
+413	Anlaß	36612	true	given	298	_
+414	Grund	36731	true	given	314	_
+415	Investitionsmöglichkeiten	37105	false	_		_
+416	Hauptgründe	37113	true	given	324	_
+417	Zweifel	37195	false	_		_
+418	Zielsetzungen	37290	false	_		_
+419	Konsequenzen	37484	false	_		_
+420	Arbeit	42760	false	_		_
+421	Vorschlägen	31196	false	_		_
+422	Antrag	27039	true	given	367	_
+423	Entscheidung	37746	true	given	251	_
+424	Bemühungen	31251	false	_		_
+425	Recht	38185	unclear	given	302	_
+426	Frage	38121	true	given	253	_
+427	Annahme	38219	false	_		_
+428	Auffassung	27137	true	given	368	_
+429	Forderung	31700	true	given	293	_
+430	Entscheidung	38206	false	_		_
+431	Fragen	31900	false	_		_
+432	Möglichkeit	27217	true	given	294	_
+433	Gelegenheit	27206	true	given	295	_
+434	Frage	27314	true	external		_
+435	Frage	32063	true	given	289	_
+436	Aufgabe	38355	false	_		_
+437	Aufgabe	27400	false	_		_
+438	Auffassung	32105	true	given	292	_
+439	Recht	38284	false	_		_
+440	Gelegenheit	27367	true	given	296	_
+441	Verpflichtung	38537	false	_		_
+442	Vorschlag	27492	true	given	358	_
+443	Schwierigkeiten	27469	false	_		_
+444	Anträge	32308	false	_		_
+445	Frage	38936	true	given	268	_
+446	Willen	27537	false	_		_
+447	Vorschlägen	32289	false	_		_
+448	Frage	38751	false	_		_
+449	Meinung	27529	false	_		_
+450	Frage	32540	false	_		_
+451	Antrag	27765	true	given	359	_
+452	Meinung	32502	true	given	291	_
+453	Notwendigkeit	39108	true	given	265	_
+454	Frage	27731	true	external		_
+455	Gründen	46952	true	given	349 328	_
+456	Entscheidung	27797	true	external		_
+457	Pflicht	32732	false	_		_
+458	Vorschlag	33218	true	given	311	_
+459	Vorschlags	33243	true	given	311	_
+460	Ziel	27881	true	given	317	_
+461	Grund	47052	true	given	349	_
+462	Recht	27869	false	_		_
+463	Möglichkeit	33481	true	given	327	_
+464	Ziels	27912	false	_		_
+465	Verpflichtungen	33394	false	_		_
+466	Entscheidung	27891	true	given	309	_
+467	Entscheidungen	28017	false	_		_
+468	Meinung	33502	true	given	326	_
+469	Fragen	28034	false	_		_
+470	Fragen	28160	false	_		_
+471	Fragen	28053	false	_		_
+472	Frage	28261	false	_		_
+473	Verpflichtungen	34036	false	_		_
+474	Frage	28435	false	_		_
+475	Tatsache	33833	true	given	325	_
+476	Fragen	28379	true	external		_
+477	Grund	40781	true	given	361	_
+478	Auftrag	28532	false	_		_
+479	Wille	41657	false	_		_
+480	Möglichkeit	29500	true	given	271	_
+481	Frage	36173	false	_		_
+482	Hinweis	41814	true	given	321	_
+483	Umständen	29428	false	_		_
+484	Auffassungen	41773	false	_		_
+485	Entscheidung	29526	false	_		_
+486	Frage	36284	false	_		_
+487	Bemühungen	42162	false	_		_
+488	Möglichkeit	29516	true	given	271	_
+489	Möglichkeit	36199	true	given	260	_
+490	Fragen	41904	false	_		_
+491	Gründe	25680	true	given	224	_
+492	Recht	42298	false	_		_
+493	Überzeugung	36327	false	_		_
+494	Frage	42262	true	external		_
+495	Frage	24410	false	_		_
+496	Frage	42349	false	_		_
+497	Fragen	24389	false	_		_
+498	Schwierigkeiten	42303	false	_		_
+499	Recht	36030	true	given	255	_
+500	Ansicht	41588	true	given	312	_
+501	Vorschlags	42435	false	_		_
+502	Entscheidungen	29689	true	given	269 270 287	_
+503	Schwierigkeiten	36846	false	_		_
+504	Voraussetzung	29738	false	_		_
+505	Auffassung	24934	false	_		_
+506	Entscheidung	36946	false	_		_
+507	Auffassung	29732	true	given	276	_
+508	Hoffnungen	24824	false	_		_
+509	Rechte	42677	false	_		_
+510	Frage	36994	false	_		_
+511	Lage	29759	false	_		_
+512	Frage	36949	false	_		_
+513	Gelegenheit	30047	true	given	279	_
+514	Voraussetzungen	25353	false	_		_
+515	Forderung	42954	true	given	313	_
+516	Tatsache	29916	true	given	277	_
+517	Willen	25300	true	given	284	_
+518	Rechte	42792	false	_		_
+519	Tatsache	30263	true	given	283	_
+520	Rechte	25469	false	_		_
+521	Pflicht	42957	true	given	313	_
+522	Frage	24663	false	_		_
+523	Schwierigkeiten	29546	false	_		_
+524	Entscheidungen	24572	false	_		_
+525	Frage	24694	false	_		_
+526	Schwierigkeiten	43081	false	_		_
+527	Bemühungen	37123	false	_		_
+528	Forderungen	42987	false	_		_
+529	Bemühungen	25559	false	_		_
+530	Lage	43216	true	given	319	_
+531	Ansicht	43109	true	given	237	_
+532	Bemühungen	37171	false	_		_
+533	Frage	25722	true	given	224	_
+534	Gelegenheit	43489	false	_		_
+535	Ziel	25593	true	given	223	_
+536	Forderung	43328	true	given	238	_
+537	Ansicht	30441	true	given	348	_
+538	Tatsache	43614	true	given	245	_
+539	Willen	43543	false	_		_
+540	Frage	25774	false	_		_
+541	Aufgaben	37267	false	_		_
+542	Entscheidung	30476	true	given	344	_
+543	Frage	25873	false	_		_
+544	Frage	25800	false	_		_
+545	Ziele	37269	false	_		_
+546	Voraussetzung	25551	false	_		_
+547	Fragen	25519	false	_		_
+548	Tatsache	30321	true	given	346	_
+549	Rechte	43744	false	_		_
+550	Ansicht	43864	false	_		_
+551	Wille	37337	true	given	332	_
+552	Hoffnung	43811	false	_		_
+553	Chance	37324	true	given	330	_
+554	Recht	26121	false	_		_
+555	Verpflichtung	30750	true	given	357	_
+556	Möglichkeiten	37502	true	given	242 241	_
+557	Tendenzen	26051	false	_		_
+558	Gelegenheit	30653	false	_		_
+559	Lage	43911	false	_		_
+560	Lage	37455	false	_		_
+561	Pflichten	30956	false	_		_
+562	Plan	44175	true	given	272	_
+563	Möglichkeit	37538	true	given	241	_
+564	Fragen	26157	true	given	352	_
+565	Fragen	30835	false	_		_
+566	Meinung	44024	true	given	252	_
+567	Möglichkeiten	37511	false	_		_
+568	Fragen	26460	true	given	229	_
+569	Pflichten	31019	false	_		_
+570	Rechte	44222	false	_		_
+571	Voraussetzung	37598	true	given	335	_
+572	Umständen	44210	false	_		_
+573	Forderungen	37544	false	_		_
+574	Rechte	26618	false	_		_
+575	Aufgabe	26483	true	given	351	_
+576	Wunsch	31129	true	given	365	_
+577	Rechte	44309	false	_		_
+578	Willens	26888	false	_		_
+579	Frage	25894	false	_		_
+580	Standpunkt	47274	undefined	_		_
+581	Frage	40340	true	given	230	_
+582	Recht	47652	undefined	_		_
+583	Gelegenheit	47506	undefined	_		_
+584	Umständen	34082	false	_		_
+585	Hinweis	40372	false	_		_
+586	Recht	47709	undefined	_		_
+587	Zweifel	35914	false	_		_
+588	Vorschlag	34073	false	_		_
+589	Möglichkeiten	40353	true	given	307 305	_
+590	Recht	47693	undefined	_		_
+591	Entscheidung	34248	false	_		_
+592	Frage	40399	true	given	236	_
+593	Vorschlägen	47866	undefined	_		_
+594	Umständen	34101	false	_		_
+595	Gefahr	40383	true	given	228	_
+596	Lage	47747	undefined	_		_
+597	Frage	39922	true	given	219	_
+598	Gelegenheit	47058	true	given	350	_
+599	Ansicht	39919	false	_		_
+600	Möglichkeit	47025	true	given	355	_
+601	Lage	47192	undefined	_		_
+602	Feststellung	39969	true	given	218	_
+603	Gedanken	47078	false	_		_
+604	Hinweise	48011	undefined	_		_
+605	Vernunft	36257	false	_		_
+606	Tatsache	48006	undefined	_		_
+607	Ansicht	40694	false	_		_
+608	Beschluß	36299	true	given	261	_
+609	Tatsache	48181	undefined	_		_
+610	Entscheidung	34362	false	_		_
+611	Frage	40728	false	_		_
+612	Entscheidung	40713	false	_		_
+613	Hoffnung	34452	false	_		_
+614	Einigung	29481	false	_		_
+615	Anträge	34409	false	_		_
+616	Antrag	40830	true	given	360	_
+617	Entscheidung	34259	false	_		_
+618	Schlußfolgerungen	29305	false	_		_
+619	Umständen	34257	false	_		_
+620	Frage	40490	true	given	235	_
+621	Ziele	47946	undefined	_		_
+622	Meinung	40595	false	_		_
+623	Vorschlags	34265	false	_		_
+624	Umstand	40579	true	given	233	_
+625	Ansicht	48584	undefined	_		_
+626	davon	29619	false	_		_
+627	Möglichkeit	40909	true	given	286	_
+628	Ansichten	48614	undefined	_		_
+629	Ansichten	28983	false	_		_
+630	Umständen	35065	false	_		_
+631	Entscheidung	29040	false	_		_
+632	Frage	35346	true	given	249	_
+633	Aufgabe	48874	undefined	_		_
+634	Pläne	29015	true	given	244	_
+635	Bemühungen	48769	undefined	_		_
+636	Ziele	41057	false	_		_
+637	Entscheidung	29054	true	given	243	_
+638	Frage	35352	true	given	240	_
+639	Recht	48893	undefined	_		_
+640	Frage	34624	false	_		_
+641	Versuch	34594	true	given	337	_
+642	Ziel	48485	undefined	_		_
+643	Voraussetzung	40894	true	given	288	_
+644	Ideen	34961	false	_		_
+645	Auffassung	29301	true	given	257	_
+646	Meinung	35708	false	_		_
+647	Meinung	35582	false	_		_
+648	Entscheidung	29384	false	_		_
+649	Antrag	41282	false	_		_
+650	Bedarf	30288	true	given	282	_
+651	Entscheidung	29336	false	_		_
+652	Entscheidung	35712	false	_		_
+653	Entscheidung	29405	false	_		_
+654	Hinweis	41423	false	_		_
+655	Auffassung	29393	true	given	259	_
+656	Vorschläge	41295	false	_		_
+657	Vorschlags	35918	false	_		_
+658	Einverständnis	25060	false	_		_
+659	Antrag	41580	false	_		_
+660	Recht	36008	false	_		_
+661	Meinung	41471	true	given	304	_
+662	Auffassung	29136	true	given	247	_
+663	Lage	41104	false	_		_
+664	Frage	29113	true	external		_
+665	Zielen	41096	false	_		_
+666	Frage	29232	true	given	256	_
+667	Meinung	29171	true	given	248	_
+668	Gelegenheiten	35568	false	_		_
+669	Forderung	44411	true	given	262	_
+670	Erwägungen	32045	false	_		_
+671	Hinweis	44780	true	given	266 320	_
+672	Befürchtung	44434	true	given	264	_
+673	Mut	31964	true	given	297	_
+674	Entscheidungen	45500	false	_		_
+675	Haushaltsplans	33029	true	external		_
+676	Gelegenheit	45541	false	_		_
+677	Recht	44939	true	given	285	_
+678	Recht	44824	false	_		_
+679	Voraussetzung	45122	false	_		_
+680	Recht	45098	true	given	274	_
+681	Fakten	28559	false	_		_
+682	Erfordernissen	33627	false	_		_
+683	Spekulationen	28551	false	_		_
+684	Anschluß	34015	false	_		_
+685	Fakten	28588	false	_		_
+686	Spekulation	28583	false	_		_
+687	Ziel	46429	true	given	222	_
+688	Fakten	28732	false	_		_
+689	Recht	45583	false	_		_
+690	Filmgarantiefonds	33470	false	_		_
+691	Frage	45573	true	given	225	_
+692	Wünschen	28523	false	_		_
+693	Umständen	45855	false	_		_
+694	Hinweisen	45641	false	_		_
+695	Spekulation	28547	false	_		_
+696	Gefahr	46262	true	given	226	_
+697	Möglichkeit	39684	true	given	280	_
+698	Vorschlag	46955	true	external		_
+699	Rechte	39836	false	_		_
+700	Einladung	35299	false	_		_
+701	Meinung	39729	true	given	227	_
+702	Argumente	28848	false	_		_
+703	Lage	46691	false	_		_
+704	Idee	46567	true	given	341	_
+705	Frage	46898	false	_		_
+706	Hoffnung	39425	false	_		_
+707	Tatsache	46705	true	given	342	_
+708	Hoffnung	39389	true	given	273	_
+709	Möglichkeiten	39633	false	_		_
+710	Hoffnung	39434	true	given	275	_
+711	Grund	27326	false	_		_
+712	Entscheidungsbefugnis	31805	false	_		_
+713	Deshalb	31306	false	_		_
+714	Versagen	31535	false	_		_
+715	Beschluß	31657	false	_		_
+716	Mitchell-Plan	61234	false	_		_
+717	dadurch	55528	false	_		_
+718	dagegen	56537	false	_		_
+719	Bedürfnisse	56003	false	_		_
+720	Sicherheitsanforderungen	65020	false	_		_
+721	Anreiz	65087	false	_		_
+722	Hauptziel	54294	true	given	430 429	_
+723	Grund	65276	true	given	426	_
+724	Überzeugungskraft	65237	false	_		_
+725	Argumente	65531	false	_		_
+726	Bestreben	59919	true	given	440	_
+727	Schlussfolgerungen	59907	false	_		_
+728	Schlussfolgerungen	60483	true	given	450	_
+729	Zivilcourage	60714	false	_		_
+730	Gründen	60858	false	_		_
+731	Tat	54933	false	_		_
+732	Anforderungen	61000	false	_		_
+733	Veranlassung	57285	false	_		_
+734	Plan	49089	true	given	540	_
+735	Notwendigkeit	49073	true	given	542	_
+736	Kompromissvorschlag	63128	false	_		_
+737	Voraussetzung	49120	true	given	539	_
+738	Schlussfolgerungen	68031	false	_		_
+739	Ziele	49374	true	given	541 536 538	_
+740	Weigerung	72386	true	given	515	_
+741	Vorschläge	49200	false	_		_
+742	Grundsatz	72484	true	given	467	_
+743	Chancen	49751	false	_		_
+744	Gleichstellungspolitik	57715	false	_		_
+745	Frage	49510	true	given	557	_
+746	Chancengleichheit	57687	false	_		_
+747	Chancengleichheit	57753	false	_		_
+748	Schlussfolgerung	68316	false	_		_
+749	Gedanken	49849	false	_		_
+750	Wünschen	68295	false	_		_
+751	Zielsetzung	63507	false	_		_
+752	Frage	50070	unclear	given	449	_
+753	Tatsache	49952	true	given	554	_
+754	Schlussfolgerung	68325	false	_		_
+755	Beweggründe	57856	false	_		_
+756	Gleichstellungspolitik	57949	false	_		_
+757	Chancengleichheit	57929	false	_		_
+758	Konsequenz	72909	true	given	478	_
+759	Grund	57975	true	given	486 396 395	_
+760	Anreiz	63624	false	_		_
+761	Kommissionsvorschlag	58284	false	_		_
+762	Argumentation	64048	true	given	493	_
+763	Sachargumenten	64118	false	_		_
+764	Begründungen	64103	false	_		_
+765	Aufwand	64223	false	_		_
+766	deswegen	58996	false	_		_
+767	Zielsetzungen	64597	false	_		_
+768	daran	53833	false	_		_
+769	Grund	64905	false	_		_
+770	daran	53870	false	_		_
+771	Möglichkeit	59150	true	given	412	_
+772	Frage	52705	true	given	383	_
+773	Antrag	59349	false	_		_
+774	Frage	52626	false	_		_
+775	Annahme	59227	false	_		_
+776	Tatsache	59591	true	given	423	_
+777	Wunsch	52738	true	given	384	_
+778	Möglichkeit	59442	true	given	422	_
+779	Frage	52788	true	external		_
+780	Recht	59845	false	_		_
+781	Bemühungen	59686	true	given	428	_
+782	Auffassung	52920	false	_		_
+783	Vorschläge	52820	false	_		_
+784	Schwierigkeiten	59924	false	_		_
+785	Argument	66682	true	given	517	_
+786	Zusagen	66538	false	_		_
+787	Lage	59990	false	_		_
+788	Rechte	59953	false	_		_
+789	Chancen	53206	false	_		_
+790	Vorschlag	60055	false	_		_
+791	Ziel	53058	true	given	480	_
+792	Lage	60150	false	_		_
+793	Überzeugung	60086	true	given	441	_
+794	Eindruck	53273	true	given	488	_
+795	Ansicht	60476	false	_		_
+796	Rechts	60303	false	_		_
+797	Frage	53325	false	_		_
+798	Versuch	53452	true	given	496	_
+799	Gelegenheit	53342	false	_		_
+800	Absicht	53473	true	given	502	_
+801	Forderung	53660	true	given	503	_
+802	Bedürfnissen	62141	false	_		_
+803	Vorschlag	53558	false	_		_
+804	Anforderungen	67059	false	_		_
+805	Recht	53937	true	given	418	_
+806	Recht	53905	false	_		_
+807	Notwendigkeit	53972	true	given	420	_
+808	Pflicht	53942	true	given	418	_
+809	Projektion	71285	true	given	533	_
+810	Möglichkeit	54174	true	given	424	_
+811	Anstrengungen	71576	unclear	given	545	_
+812	Fragen	54195	true	given	432 435 437 439	_
+813	Lage	54512	false	_		_
+814	Fragen	54459	true	given	445 443	_
+815	Sicherheitsstandards	71696	false	_		_
+816	Verdacht	54665	false	_		_
+817	Frage	68473	true	given	472 470	_
+818	Ansichten	57503	false	_		_
+819	Frage	68562	true	external		_
+820	Recht	62949	false	_		_
+821	Verpflichtung	50791	true	given	373	_
+822	Überzeugung	68723	true	given	484	_
+823	Aufgaben	57675	true	given	460	_
+824	Frage	68665	true	external		_
+825	Recht	57562	false	_		_
+826	Meinung	63045	true	external		_
+827	Schwierigkeiten	57825	false	_		_
+828	Fragen	63277	true	given	466 404	_
+829	Frage	50932	false	_		_
+830	Vorschlag	68727	true	given	481	_
+831	Absicht	57711	true	given	464	_
+832	Ansichten	63260	false	_		_
+833	Standpunkt	68797	false	_		_
+834	Rechte	57925	false	_		_
+835	Frage	63425	true	given	405 407	_
+836	Ansicht	68773	false	_		_
+837	Fragen	57887	false	_		_
+838	Möglichkeit	63364	true	given	468	_
+839	Vorschlag	51103	true	external		_
+840	Frage	63511	true	given	473	_
+841	Voraussetzungen	51024	false	_		_
+842	Erkenntnissen	68804	false	_		_
+843	Ziele	57947	false	_		_
+844	Vorschläge	63490	true	external		_
+845	Überzeugung	50689	true	given	477	_
+846	Frage	57347	true	external		_
+847	Vorschlag	62917	true	given	455	_
+848	Erkenntnisse	68845	false	_		_
+849	Auffassung	63533	true	given	479	_
+850	Entscheidungen	68842	false	_		_
+851	Lage	68875	true	given	500	_
+852	Standpunkt	63674	false	_		_
+853	Meinung	68860	true	given	501	_
+854	Überzeugung	63595	true	given	482	_
+855	Ansicht	68925	false	_		_
+856	Entscheidungen	68904	false	_		_
+857	Fragen	51398	true	external		_
+858	Versuchen	68946	true	given	505	_
+859	Erfordernissen	69432	false	_		_
+860	Garantien	69495	false	_		_
+861	Lage	51522	false	_		_
+862	Wunsch	63825	false	_		_
+863	Abschluss	69439	false	_		_
+864	Pläne	51429	true	given	421	_
+865	Versuche	68980	true	given	507	_
+866	Hoffnung	51535	true	given	376	_
+867	Vorschläge	58187	false	_		_
+868	Vorschläge	63937	false	_		_
+869	dann	53341	false	_		_
+870	Forderung	51148	true	given	508	_
+871	Möglichkeit	51107	true	given	512 374	_
+872	Frage	64027	unclear	given	406	_
+873	Meinung	51921	false	_		_
+874	Vorschlag	58336	false	_		_
+875	Ansicht	58331	true	given	495	_
+876	Auffassung	51966	true	given	425	_
+877	Standpunkt	64282	false	_		_
+878	Fragen	58400	false	_		_
+879	Meinung	51937	false	_		_
+880	Fragen	58391	false	_		_
+881	Fragen	58446	false	_		_
+882	Gründen	69580	false	_		_
+883	Vorschläge	52054	false	_		_
+884	Frage	52027	false	_		_
+885	deshalb	69588	false	_		_
+886	Aufgabe	52097	false	_		_
+887	Vorschläge	52071	false	_		_
+888	Gefahr	64673	false	_		_
+889	Vorschlag	64638	false	_		_
+890	Ansicht	64753	false	_		_
+891	Ziel	58576	true	given	506	_
+892	Vorschlag	64686	false	_		_
+893	Ziel	58560	false	_		_
+894	Gefahren	52307	false	_		_
+895	Forderungen	64945	true	given	415	_
+896	Vorschlag	58713	false	_		_
+897	Ziel	52296	true	given	388 387	_
+898	deshalb	66037	false	_		_
+899	Vorschlag	64923	true	given	413	_
+900	Zieles	58584	true	given	506	_
+901	Annahme	52467	false	_		_
+902	Scheitern	66058	false	_		_
+903	Auftrag	52393	false	_		_
+904	Anreize	66045	false	_		_
+905	Zweifel	69962	false	_		_
+906	Ziel	52569	true	given	438	_
+907	Bedürfnisse	66094	false	_		_
+908	Forderung	59145	true	given	416	_
+909	Ansicht	52545	true	given	469	_
+910	Möglichkeit	58976	false	_		_
+911	Vorschlägen	52595	false	_		_
+912	Vorstellungen	69652	false	_		_
+913	Vorschlags	67045	false	_		_
+914	Vorschläge	71229	false	_		_
+915	Frage	71117	true	external		_
+916	Versuch	61295	true	given	379	_
+917	Ansicht	67063	false	_		_
+918	Angelegenheiten	51705	false	_		_
+919	Frage	61274	false	_		_
+920	Möglichkeit	67052	true	given	531	_
+921	Chancen	71362	false	_		_
+922	Gefahr	54855	true	given	399	_
+923	Vorschlägen	67128	false	_		_
+924	Recht	61560	true	given	401	_
+925	Versuch	55051	true	given	448	_
+926	Feststellung	61514	true	given	372	_
+927	Entscheidungen	61053	false	_		_
+928	Standpunkt	71094	false	_		_
+929	Frage	61050	false	_		_
+930	Frage	71071	true	external		_
+931	Zielsetzung	51285	true	given	375	_
+932	Vorschlag	67025	false	_		_
+933	Fragen	66893	true	given	528 526 529	_
+934	Frage	71103	true	external		_
+935	Vorschlägen	61246	false	_		_
+936	Ansicht	71749	false	_		_
+937	Recht	67166	false	_		_
+938	Tatsache	71830	true	given	552	_
+939	Vorschläge	67159	false	_		_
+940	Ziel	71793	true	given	550	_
+941	Schlussfolgerungen	52254	false	_		_
+942	Frage	55392	false	_		_
+943	Fragen	67209	true	given	535 532 537	_
+944	Meinung	71898	false	_		_
+945	Meinung	55275	false	_		_
+946	Vorschlägen	67193	false	_		_
+947	Rechte	71940	false	_		_
+948	Frage	55441	true	given	370 392	_
+949	Entscheidung	71909	true	external		_
+950	Ansicht	62055	false	_		_
+951	Verpflichtung	67462	true	given	408	_
+952	Ziele	71989	true	given	453	_
+953	Recht	62018	false	_		_
+954	Entscheidung	71971	true	given	456	_
+955	Frage	55079	true	given	380	_
+956	Forderung	61704	true	given	400	_
+957	Frage	71613	false	_		_
+958	Eindruck	61655	true	given	371	_
+959	Meinung	55196	true	given	378	_
+960	Bereitschaft	61976	true	given	524	_
+961	Meinung	55098	false	_		_
+962	Forderungen	61838	false	_		_
+963	Frage	55222	true	given	369	_
+964	Ansicht	67612	true	given	451	_
+965	Entscheidung	72007	true	given	453	_
+966	Rechtes	62195	false	_		_
+967	Aufgabe	55962	true	given	382	_
+968	Frage	67734	false	_		_
+969	Ansicht	62181	false	_		_
+970	Schwierigkeiten	67644	false	_		_
+971	Frage	50210	true	external		_
+972	Vorschlag	62281	true	given	534	_
+973	Frage	72128	true	external		_
+974	Vorschlag	67894	false	_		_
+975	Fragen	50084	true	external		_
+976	Vorschläge	62221	false	_		_
+977	Meinung	55980	false	_		_
+978	Frage	50254	false	_		_
+979	Ansicht	62296	false	_		_
+980	Aufgaben	56357	false	_		_
+981	Frage	72177	true	external		_
+982	Tatsache	67943	true	given	461	_
+983	Ziel	50228	false	_		_
+984	Umständen	62292	false	_		_
+985	Standpunkt	56233	true	given	391	_
+986	Meinungen	72156	false	_		_
+987	Ansicht	67902	true	given	459	_
+988	Lage	72407	false	_		_
+989	Standpunktes	62508	false	_		_
+990	Rechte	72302	false	_		_
+991	Möglichkeit	67976	false	_		_
+992	Ansicht	62090	false	_		_
+993	Frage	55597	true	external		_
+994	Pflicht	67602	false	_		_
+995	Recht	62071	false	_		_
+996	Entscheidungen	71998	true	given	453	_
+997	Frage	67578	true	given	546 553	_
+998	Anträge	55931	false	_		_
+999	Vorschlags	62121	false	_		_
+1000	Frage	55796	true	given	381	_
+1001	Gefahr	62659	false	_		_
+1002	Ideen	72561	false	_		_
+1003	Ziele	50354	false	_		_
+1004	Frage	62786	true	given	548	_
+1005	Gelegenheit	57073	true	given	549	_
+1006	Vorschläge	72637	false	_		_
+1007	Frage	62775	true	given	548	_
+1008	Frage	56963	true	given	551	_
+1009	Rechte	72570	false	_		_
+1010	Ziele	50444	false	_		_
+1011	Frage	57112	true	external		_
+1012	Rechte	72816	false	_		_
+1013	Verpflichtung	50385	true	given	462	_
+1014	Ansichten	72695	false	_		_
+1015	Aufgabe	68167	true	given	465	_
+1016	Zweifel	73172	false	_		_
+1017	Möglichkeit	50576	true	given	463	_
+1018	Recht	62875	false	_		_
+1019	Frage	57182	true	external		_
+1020	Verpflichtung	50449	true	given	462	_
+1021	Frage	57161	true	external		_
+1022	Forderung	50674	true	given	377	_
+1023	Vorschlag	62890	true	given	454	_
+1024	Frage	57313	true	given	458	_
+1025	Frage	68367	true	external		_
+1026	Recht	50652	true	given	476	_
+1027	Auffassung	62884	true	given	555	_
+1028	Gefahr	72995	false	_		_
+1029	Frage	68278	false	_		_
+1030	Frage	62627	false	_		_
+1031	Vorschlägen	56403	false	_		_
+1032	Tatsache	62623	true	given	544	_
+1033	Erkenntnisse	68084	false	_		_
+1034	Frage	56803	false	_		_
+1035	Annahme	65112	false	_		_
+1036	Ansicht	69789	false	_		_
+1037	Frage	69553	true	given	393	_
+1038	Ansicht	65168	true	given	419	_
+1039	Ansicht	65154	false	_		_
+1040	Möglichkeit	69386	true	given	417	_
+1041	Standpunkt	69436	false	_		_
+1042	Zielsetzung	50382	false	_		_
+1043	Lage	69415	false	_		_
+1044	Vorhaben	50464	true	external		_
+1045	Voraussetzungen	69501	true	given	385 398 397	_
+1046	Entscheidung	69450	false	_		_
+1047	Entscheidung	69523	false	_		_
+1048	Gründen	50753	true	given	474 475 499	_
+1049	Gefahr	65582	true	given	433	_
+1050	Zielen	70272	false	_		_
+1051	Vorschlag	70136	true	given	409	_
+1052	Forderungen	65629	false	_		_
+1053	Frage	70413	false	_		_
+1054	Entscheidungen	65595	false	_		_
+1055	Wunsch	70303	false	_		_
+1056	Gelegenheit	65291	false	_		_
+1057	Fragen	69814	true	external		_
+1058	Vorschläge	69901	false	_		_
+1059	Standpunkten	69892	false	_		_
+1060	Ansicht	69942	false	_		_
+1061	Frage	69939	true	external		_
+1062	Lage	70649	false	_		_
+1063	Argumente	51038	true	given	494	_
+1064	Lage	70560	false	_		_
+1065	Entscheidung	70693	true	given	516	_
+1066	Vorschläge	70657	false	_		_
+1067	Ansicht	60535	false	_		_
+1068	dadurch	51060	false	_		_
+1069	Ansicht	70760	true	given	518	_
+1070	Gefahren	60643	false	_		_
+1071	Einsicht	65830	false	_		_
+1072	Möglichkeit	65809	true	given	434	_
+1073	Vorschlags	70451	true	external		_
+1074	Lage	65924	false	_		_
+1075	Ziele	65860	false	_		_
+1076	Vorschlag	70476	false	_		_
+1077	Notwendigkeit	65975	true	given	442	_
+1078	Gefahr	70929	true	given	523	_
+1079	Notifizierungspflicht	51199	unclear	given	511	_
+1080	Verpflichtung	66598	true	given	514	_
+1081	Vorschläge	70942	false	_		_
+1082	Ansicht	66585	true	given	517	_
+1083	Vorschläge	71019	false	_		_
+1084	Frage	71002	true	external		_
+1085	Fragen	66725	false	_		_
+1086	Bedarfsfall	51250	false	_		_
+1087	Meinung	71051	true	given	530	_
+1088	Frage	66752	true	given	521 520	_
+1089	Argumentation	51300	true	external		_
+1090	Verpflichtung	71023	true	given	527	_
+1091	Standpunkt	70862	false	_		_
+1092	Frage	70793	true	given	519	_
+1093	Standpunkt	66478	false	_		_
+1094	Aufgaben	60986	false	_		_
+1095	Ansicht	66297	false	_		_
+1096	Rechte	60977	false	_		_
+1097	Ziele	61030	false	_		_
+1098	Standpunkt	66528	false	_		_
+1099	Ziele	61011	false	_		_
+1100	Möglichkeit	73017	true	given	485	_
+1101	Voraussetzungen	73022	false	_		_
+1102	Entscheidungen	73432	false	_		_
+1103	Hinweise	73385	false	_		_
+1104	Tatsache	69136	true	given	411	_
+1105	Frage	69091	true	external		_
+1106	Wunsch	69335	true	given	414	_
