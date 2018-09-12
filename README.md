@@ -5,7 +5,11 @@ Datasets and scripts for the analysis of non-nominal-antecedent anaphora
 The datasets are provided in the form of TSV tables, which can be easily read
 into R or Pandas as required
 
+Link tables contain rows referring to anaphor and antecedent instances (n:m
+relation) and can be used to join anaphor and antecedent tables
 
+`tokens_parsed.tsv` tables contain POS tags, lemmas, and dependency parses from
+the [SpaCy toolkit](https://spacy.io)
 
 
 ## Directory layout
