@@ -37,6 +37,8 @@ heatmap <- ggplot(plotdat, aes(x = Var1, y = Var2)) +
                   scale_size_continuous(range = c(-1, 10)) +
                   labs(y = "Annotator 1", x = "Annotator 2") + 
                   theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0))
+ggsave(filename = "replacementnouns.pdf", plot = heatmap,
+       width = 6.5, height = 6)
 
 
 
@@ -103,7 +105,6 @@ print(xtable(g2[,-1][,fixed.cols],
 
 
 ##### Figure #######
-
 # Boxplot of antecedent distribution for various SN lemmas
 sn.boxplot <- ggplot(gold.all %>% filter(lemma.freq > 2 & !is.na(distance)), 
                      aes(fct_reorder(lemma, distance), distance)) + 
@@ -111,9 +112,13 @@ sn.boxplot <- ggplot(gold.all %>% filter(lemma.freq > 2 & !is.na(distance)),
                      # scale_color_gradient(low = "grey", high = "black") +
                      coord_flip() + ylim(-100, 150) +
                      labs(x = "Lemma", y = "Distance in tokens") 
+ggsave(filename = "sn-boxplot.pdf", plot = sn.boxplot,
+       width = 6, height = 7)
 
 # and for pronouns
 pronouns.plot <- ggplot(gold.pro %>% filter(!is.na(distance)), 
                         aes(fct_reorder(lowercase, distance), distance)) + 
                         geom_boxplot() + coord_flip() + ylim(-100, 150) +
                         labs(x = "Lemma", y = "Distance in tokens")
+ggsave(filename = "pro-boxplot.pdf", plot = pronouns.plot,
+       width = 6, height = 3)
