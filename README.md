@@ -1,6 +1,18 @@
 # `nna-datasets`
 Datasets and scripts for the analysis of non-nominal-antecedent anaphora
 
+## Citation
+
+For the pronominal dataset:
+
+Dipper, S. & Zinsmeister, H. (2012). Annotating abstract anaphora. *Language Resources and Evaluation*, 46, pp. 37&ndash;52.
+
+And the shell nouns dataset:
+
+Simonjetz, F. & Roussel, A. (2016). Crosslinguistic Annotation of German and English Shell Noun Complexes. *Proceedings of the 13th Conference on Natural Language Processing (KONVENS)*, pp. 265&ndash;278.
+
+
+
 ## Usage
 
 
