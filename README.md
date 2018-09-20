@@ -29,7 +29,7 @@ If you use the `loadData.R` script to load the data, you should end up with a fe
 * `sn.tokens` -- "    " (SNs)
 * `both.sns` -- shell nouns (just anaphor annotations from both annotators)
 * `both.pro.withante` -- pronoun data from both annotators with antecedents
-* `both.sn.withcp` -- shell noun from both annotators (only pairs where both annotators marked just one antecedent)
+* `both.sn.withcp` -- shell noun data from both annotators (only pairs where both annotators marked just one antecedent)
 * `gold.pro` -- pronouns with content (all pairs)
 * `gold.all` -- shell nouns with content (all pairs)
 
