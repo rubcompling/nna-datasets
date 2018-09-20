@@ -1,5 +1,5 @@
 # `nna-datasets`
-Datasets and scripts for the analysis of non-nominal&ndash;antecedent anaphora
+Datasets and scripts for the analysis of anaphora with non-nominal antecedents
 
 ## Citation
 
