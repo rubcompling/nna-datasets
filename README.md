@@ -5,7 +5,7 @@ Datasets and scripts for the analysis of anaphora with non-nominal antecedents
 
 For the pronominal dataset:
 
-[Dipper, S. & Zinsmeister, H. (2012). Annotating abstract anaphora. *Language Resources and Evaluation*, 46, pp. 37&ndash;52.]()
+[Dipper, S. & Zinsmeister, H. (2012). Annotating abstract anaphora. *Language Resources and Evaluation*, 46, pp. 37&ndash;52.](http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s10579-011-9160-1) ([preprint](https://linguistics.rub.de/~dipper/pub/lre11_preprint.pdf))
 
 For the shell nouns dataset:
 
@@ -17,7 +17,7 @@ For an extensive review of theoretical literature and the resources pertaining t
 
 [Kolhatkar, V., Roussel, A., Dipper, S., & Zinsmeister, H. (2018). Anaphora with Non-nominal Antecedents in Computational Linguistics: A Survey. *Computational Linguistics*, 44(3).](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00327) 
 
-Further resources and data will be collected at this repository: [https://github.com/kvarada/non-NA_Resources](https://github.com/kvarada/non-NA_Resources)
+Further resources and data are available in this repository: [https://github.com/kvarada/non-NA_Resources](https://github.com/kvarada/non-NA_Resources)
 
 
 ## Usage
